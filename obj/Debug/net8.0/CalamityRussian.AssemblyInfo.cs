@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalamityRussian")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7b09377112cf940986ec10a14a86f889e2cfeac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c75cd72dc8462c9069bc064b057368b8cc936cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalamityRussian")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalamityRussian")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

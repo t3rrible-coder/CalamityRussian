@@ -1,10 +1,10 @@
 // For general uses
-// Abyss: Abyss
-// AstralInfection: Astral Infection
-// AstralSnow: Astral Snow
-// BrimstoneCrags: Brimstone Crags
-// SulphurousSea: Sulphurous Sea
-// SunkenSea: Sunken Sea
+Abyss: Бездна
+AstralInfection: Астральная инфекция
+AstralSnow: Астральный снежный биом
+BrimstoneCrags: Серные руины
+SulphurousSea: Серное море
+SunkenSea: Затопленное море
 
 AstralDesert: {
 	// DisplayName: Astral Desert Surface
