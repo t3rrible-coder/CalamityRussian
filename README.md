@@ -12,4 +12,4 @@ Mostly, addons will be prioritized to be translated
 >[!NOTE]
 >This mod is NOT official localization, it's simply made for fun and nothing more
 ### Currently translated addons:
-- [Wrath of The Machines](https://github.com/LucilleKarma/WrathOfTheMachines) by LucilleKarma
+- `100%` [Wrath of The Machines](https://github.com/LucilleKarma/WrathOfTheMachines) by LucilleKarma 
