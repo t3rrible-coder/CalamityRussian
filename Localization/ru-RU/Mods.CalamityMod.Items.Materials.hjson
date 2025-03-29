@@ -15,16 +15,16 @@ ArmoredShell: {
 
 AscendantSpiritEssence: {
 	DisplayName: Возвышенная эссенция души
-	Tooltip: A catalyst of the highest caliber formed by fusing powerful souls
+	Tooltip: Наилучший катализатор, сформированый после слияния сильных душ
 }
 
 AshesofAnnihilation: {
 	DisplayName: Пепел аннигиляции
-	Tooltip: The smoldering essence of the Witch's wrath
+	Tooltip: Тлеющий гнев Ведьмы
 }
 
 AshesofCalamity: {
-	DisplayName: Пепел Каламити
+	DisplayName: Пепел Катастрофы
 	Tooltip: ""
 }
 
@@ -35,11 +35,11 @@ AstralBar: {
 
 AuricBar: {
 	DisplayName: Ауритовый слиток
-	Tooltip: Boundless power emanates from the metal
+	Tooltip: Безмерная сила исходит из этого металла
 }
 
 BeetleJuice: {
-	DisplayName: Сок жука
+	DisplayName: Жучий сок
 	Tooltip: ""
 }
 
@@ -69,7 +69,7 @@ BloodstoneCore: {
 }
 
 CoreofCalamity: {
-	DisplayName: Ядро Каламити
+	DisplayName: Ядро Катастрофы
 	Tooltip: ""
 }
 
@@ -89,13 +89,13 @@ CoreofSunlight: {
 }
 
 CorrodedFossil: {
-	DisplayName: Распадающийся скелет
-	Tooltip: It's very sturdy
+	DisplayName: Корродированные окаменелости
+	Tooltip: Они очень прочные
 }
 
 CosmiliteBar: {
-	DisplayName: Космический слиток
-	Tooltip: A chunk of durable and highly resilient cosmic steel
+	DisplayName: Космистальной слиток
+	Tooltip: Осколок стойкой и высокопрочной космической стали
 }
 
 CryonicBar: {
@@ -110,7 +110,7 @@ DarkPlasma: {
 
 DarksunFragment: {
 	DisplayName: Фрагмент Тёмного Солнца
-	Tooltip: An impacted crystal suffused with opposing celestial energies
+	Tooltip: Кристалл, наполненный противоположными небесными энергиями
 }
 
 DemonicBoneAsh: {
@@ -120,12 +120,12 @@ DemonicBoneAsh: {
 
 DepthCells: {
 	DisplayName: Клетки глубин
-	Tooltip: The cells of abyssal creatures
+	Tooltip: Клетки существ из Бездны
 }
 
 DivineGeode: {
 	DisplayName: Божественный жеод
-	Tooltip: A chunk of crystallized holy energy
+	Tooltip: Осколок кристаллизованной святой энергии
 }
 
 DubiousPlating: {
@@ -135,47 +135,47 @@ DubiousPlating: {
 
 EffulgentFeather: {
 	DisplayName: Светящееся Перо
-	Tooltip: It vibrates with fluffy golden energy
+	Tooltip: Оно вибрирует пушистой, золотой энергией
 }
 
 EndothermicEnergy: {
 	DisplayName: Эндотермическая энергии
-	Tooltip: Its deathly chill sucks the life from its surroundings
+	Tooltip: Смертельный холод этой энергии высасывает жизнь из своего окружения.
 }
 
 EnergyCore: {
 	DisplayName: Ядро энергии
-	Tooltip: It pulses with energy
+	Tooltip: Оно пульсирует энергией
 }
 
 EssenceofEleum: {
 	DisplayName: Эссенция Элия
-	Tooltip: The essence of cold creatures
+	Tooltip: Эссенция холодных существ
 }
 
 EssenceofHavoc: {
 	DisplayName: Эссенция Разрушения
-	Tooltip: The essence of desolate creatures
+	Tooltip: Эссенция адских существ
 }
 
 EssenceofSunlight: {
 	DisplayName: Эссенция Света
-	Tooltip: The essence of sky, light, and storm creatures
+	Tooltip: Эссенция небесных, светлых и штормовых существ
 }
 
 ExoPrism: {
 	DisplayName: Экзо-призма
-	Tooltip: Fractal energies shimmer across its surface
+	Tooltip: Фрактальная энергия отражается по её поверхности
 }
 
 GalacticaSingularity: {
 	DisplayName: Сингулярность Галактики
-	Tooltip: A shard of the cosmos
+	Tooltip: Осколок космоса
 }
 
 GrandScale: {
 	DisplayName: Великая Чешуя
-	Tooltip: Large scale of an apex predator
+	Tooltip: Огромная чешуя высшего хищника
 }
 
 InfectedArmorPlating: {
@@ -218,8 +218,8 @@ MiracleMatter: {
 }
 
 MolluskHusk: {
-	DisplayName: Остатки моллюска
-	Tooltip: The remains of a mollusk
+	DisplayName: Оболочка моллюска
+	Tooltip: Остатки от моллюска
 }
 
 MurkyPaste: {
@@ -234,12 +234,12 @@ MysteriousCircuitry: {
 
 Necroplasm: {
 	DisplayName: Некроплазма
-	Tooltip: It churns and seethes with ghastly malice
+	Tooltip: Она бурлит с призрачной злобой
 }
 
 NightmareFuel: {
 	DisplayName: Топливо кошмара
-	Tooltip: May drain your sanity
+	Tooltip: Может истощить твой рассудок
 }
 
 PearlShard: {
@@ -259,7 +259,7 @@ PlagueCellCanister: {
 
 PlasmaDriveCore: {
 	DisplayName: Прототипное ядро плазма-привода
-	Tooltip: Despite all the time it spent in storage, its furnace still burns strong
+	Tooltip: Даже несмотря на всё время, которое оно провело в хранилище, его энергия до сих пор сильна
 }
 
 PurifiedGel: {
@@ -269,7 +269,7 @@ PurifiedGel: {
 
 ReaperTooth: {
 	DisplayName: Зуб Жнеца
-	Tooltip: Sharp enough to cut diamonds
+	Tooltip: Достаточно остр, что-бы разрезать алмазы
 }
 
 RottenMatter: {
@@ -279,12 +279,12 @@ RottenMatter: {
 
 RuinousSoul: {
 	DisplayName: Разрушенная душа
-	Tooltip: A shard of the distant past
+	Tooltip: Осколок далёкого прошлого
 }
 
 ScoriaBar: {
 	DisplayName: Шлаковый слиток
-	Tooltip: The smoke feels warm
+	Tooltip: Дым кажется тёплым
 }
 
 SeaRemains: {
@@ -294,12 +294,12 @@ SeaRemains: {
 
 ShadowspecBar: {
 	DisplayName: Тенеауритовый слиток
-	Tooltip: A vile, black metal, so horrendous and powerful as to defy explanation
+	Tooltip: Грубый, чёрный металл, настолько ужасен и силён, что не поддается объяснению
 }
 
 SolarVeil: {
 	DisplayName: Солнечная ткань
-	Tooltip: Sunlight cannot penetrate the fabric of this cloth
+	Tooltip: Солнечный свет не может пробить поверхность этой ткани
 }
 
 StarblightSoot: {
@@ -319,12 +319,12 @@ SulphuricScale: {
 
 SuspiciousScrap: {
 	DisplayName: Подозрительный мусор
-	Tooltip: Looks like it may be part of a greater whole...
+	Tooltip: Выглядит как будто этот мусор - часть чего-то большего...
 }
 
 TitanHeart: {
 	DisplayName: Сердце Титана
-	Tooltip: Can be offered up at the Astral Beacon
+	Tooltip: Может быть пожертвовано на Астральном Маяке
 }
 
 TrapperBulb: {
@@ -348,8 +348,8 @@ UnholyCore: {
 }
 
 UnholyEssence: {
-	DisplayName: Адская Эссенция
-	Tooltip: The essence of profaned creatures
+	DisplayName: Осквернённая Эссенция
+	Tooltip: Эссенция осквернённых существ
 }
 
 WulfrumMetalScrap: {
@@ -359,5 +359,5 @@ WulfrumMetalScrap: {
 
 YharonSoulFragment: {
 	DisplayName: Фрагмент души Ярона
-	Tooltip: A shard of a draconic Auric Soul
+	Tooltip: Осколок Драконьей Ауритовой души
 }
