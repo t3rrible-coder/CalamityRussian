@@ -10,7 +10,7 @@ Mostly, addons will be prioritized to be translated
 
 
 >[!NOTE]
->This mod is NOT official localization, it's simply made for fun and nothing more
+>This mod is NOT official localization, it's simply made for fun and nothing more, which means there might not be frequent updates
 ### Current translation progress:
 - `~2%` [Calamity](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072) by `Fabsol + more`
 - `100%` [Wrath of The Machines](https://github.com/LucilleKarma/WrathOfTheMachines) by `LucilleKarma`
