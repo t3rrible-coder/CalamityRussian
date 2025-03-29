@@ -9,5 +9,9 @@ Mostly, addons will be prioritized to be translated
 >This mod is NOT official localization, it's simply made for fun and nothing more
 
 
+**Steam workshop link:** [click]()   
+^ if it leads to github, then theres just no workshop page yet
+
+
 ## Currently translated addons:
 - [Wrath of The Machines](https://github.com/LucilleKarma/WrathOfTheMachines) by LucilleKarma
