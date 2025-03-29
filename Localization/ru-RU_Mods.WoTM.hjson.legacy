@@ -15,7 +15,7 @@ Projectiles: {
 	HadesLaserBurst.DisplayName: Лазерная Очередь
 	HadesMine.DisplayName: Мина АИДа
 	HadesSuperLaserbeam.DisplayName: Экзоэнегретический Лазер
-	HomingTeslaBurst.DisplayName: Очередь Теслы
+	HomingTeslaBurst.DisplayName: Снаряд Теслы
 	LargeTeslaSphere.DisplayName: Сфера Теслы
 	LargeTeslaSphereExplosion.DisplayName: Тесла-Взрыв
 	LingeringPlasmaFireball.DisplayName: Плазма Шар
