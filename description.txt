@@ -1,1 +1,6 @@
-Modify this file with a description of your mod.
+Перевод для Calamity и некоторых аддонов
+
+Прогресс перевода:
+Calamity - 1%
+Calamity : Entropy - 2%
+Calamity : Wrath of the Machines - 100%

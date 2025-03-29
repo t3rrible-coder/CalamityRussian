@@ -1,62 +1,62 @@
 Items: {
 	VoidBlade: {
 		DisplayName: Катана Пустоты
-		// Tooltip: Quickly perform continuous slashing
+		Tooltip: Производит серию из быстрых разрезов
 	}
 
 	Weapons: {
 		Rogue: {
 			Revelation: {
-				/* Tooltip:
+				Tooltip:
 					'''
-					Throw out a sickle
-					When Stealth, Chop and fire projectiles
-					''' */
-				// DisplayName: Revelation
+					Во время атаки вы кидаете косу
+					Стелс атаки создают разрез и взрывающиеся снаряды
+					'''
+				DisplayName: Откровение
 			}
 
 			Silence: {
-				// DisplayName: Silence
+				DisplayName: Тишина
 				// Tooltip: ""
 			}
 
 			ShadewindLance: {
-				/* Tooltip:
+				Tooltip:
 					'''
-					Throw out a javelin containing void
-					Stealth attacks will deal higher damage and can penetrate infinitely
-					''' */
-				// DisplayName: Shadewind Lance
+					Во время атаки вы кидаете копьё, содержащее Пустоту
+					Стелс атаки наносят больше урона, и могут пробить бесконечное количество врагов
+					'''
+				DisplayName: Теневетряное копьё
 			}
 
 			Aquashard: {
-				// DisplayName: Aquashard
+				DisplayName: Акваосколок
 				// Tooltip: ""
 			}
 
 			SpearOfRadiance: {
 				// Tooltip: ""
-				// DisplayName: Spear Of Radiance
+				DisplayName: Копьё Лучезарности
 			}
 
 			AbyssalPiercer: {
-				// DisplayName: Abyssal Piercer
+				DisplayName: Тьма Бездны
 				// Tooltip: ""
 			}
 
 			AzureOfFirmament: {
 				// Tooltip: ""
-				// DisplayName: Azure Of Firmament
+				DisplayName: Небесная Лазурь
 			}
 
 			ArbitratorII: {
 				// Tooltip: ""
-				// DisplayName: Arbitrator II
+				// DisplayName: Арбитратор II
 			}
 
 			Voidseeker: {
-				// Tooltip: Stealth Strike will teleport you to your cursor and deal significant damage
-				// DisplayName: Voidseeker
+				Tooltip: Стелс атаки телепортируют вас к вашему курсору, и наносят значительный урон
+				DisplayName: Пустотный искатель
 			}
 
 			TheBeginingAndTheEnd: {
@@ -75,7 +75,7 @@ Items: {
 
 			AmethystFrisbee: {
 				// Tooltip: ""
-				// DisplayName: Amethyst Frisbee
+				DisplayName: Аметистовый Фрисби
 			}
 		}
 	}
