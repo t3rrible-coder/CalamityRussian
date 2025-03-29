@@ -1,6 +1,6 @@
 displayName = Русский перевод Calamity
 author = guy from gsg-9
-version = 0.4
+version = 0.5
 translationMod = true
 modReferences = CalamityMod
-sortAfter = CalamityMod,WoTM
+sortAfter = CalamityMod,CalamityEntropy,WoTM

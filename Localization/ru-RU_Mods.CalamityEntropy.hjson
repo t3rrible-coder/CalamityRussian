@@ -1,0 +1,2443 @@
+Items: {
+	VoidBlade: {
+		DisplayName: Катана Пустоты
+		Tooltip: Производит серию из быстрых разрезов
+	}
+
+	Weapons: {
+		Rogue: {
+			Revelation: {
+				Tooltip:
+					'''
+					Во время атаки вы кидаете косу
+					Стелс атаки создают разрез и взрывающиеся снаряды
+					'''
+				DisplayName: Откровение
+			}
+
+			Silence: {
+				DisplayName: Тишина
+				// Tooltip: ""
+			}
+
+			ShadewindLance: {
+				Tooltip:
+					'''
+					Во время атаки вы кидаете копьё, содержащее Пустоту
+					Стелс атаки наносят больше урона, и могут пробить бесконечное количество врагов
+					'''
+				DisplayName: Теневетряное копьё
+			}
+
+			Aquashard: {
+				DisplayName: Акваосколок
+				// Tooltip: ""
+			}
+
+			SpearOfRadiance: {
+				// Tooltip: ""
+				DisplayName: Копьё Лучезарности
+			}
+
+			AbyssalPiercer: {
+				DisplayName: Тьма Бездны
+				// Tooltip: ""
+			}
+
+			AzureOfFirmament: {
+				// Tooltip: ""
+				DisplayName: Небесная Лазурь
+			}
+
+			ArbitratorII: {
+				// Tooltip: ""
+				// DisplayName: Арбитратор II
+			}
+
+			Voidseeker: {
+				Tooltip: Стелс атаки телепортируют вас к вашему курсору, и наносят значительный урон
+				DisplayName: Пустотный искатель
+			}
+
+			TheBeginingAndTheEnd: {
+				// DisplayName: The Beginning And The End
+				/* Tooltip:
+					'''
+					Throw The Beginning or The End using left or right button
+					The End will apply Stare of Abyss debuff
+					The Beginning will apply Eclipsed Imprint debuff
+					When another type of knife hits, clear the debuff and generate Echo Soul or Eclipsed Soul based on the number of debuff layers
+					Echo Soul will continue to attack enemy monsters and disappear after a few seconds
+					Eclipsed soul will fly towards you and heal you, while temporarily increasing attack speed, attack damage, and crit chance
+					Stealth attack will simultaneously throw two knives and track the target, unleashing a large number of two types of souls upon impact
+					''' */
+			}
+
+			AmethystFrisbee: {
+				// Tooltip: ""
+				DisplayName: Аметистовый Фрисби
+			}
+		}
+	}
+
+	PrisonOfPermafrost: {
+		/* Tooltip:
+			'''
+			Summon a magic array while using
+			Continuously launching ice spikes and ice cones
+			''' */
+		// DisplayName: Prison Of Permafrost
+	}
+
+	Kinanition: {
+		// DisplayName: Kinanition
+		/* Tooltip:
+			'''
+			[c/ce97fa:Left click to launch a series of lightning arrows]
+			[c/ce97fa:Lightning arrows retain the original effect of ammunition]
+			[c/ce97fa:and track after hitting the target,]
+			[c/0078b9:Right click to launch a tracking Thunderbolt Spear]
+			[c/0078b9:Burst out with lightning after hitting the target]
+			''' */
+	}
+
+	VoidRelics: {
+		// DisplayName: Void Relics
+		/* Tooltip:
+			'''
+			Spawns a Void Mark follow your mouse
+			Consume all summon slots
+			The more slots consumed, the higher the damage
+			''' */
+	}
+
+	AuricToilet: {
+		/* Tooltip:
+			'''
+			This was used by the Yharim
+			Sitting on such a throne would be a disgrace to all
+			"Now it can sit"
+			''' */
+		// DisplayName: Auric Toilet
+	}
+
+	LotteryBox: {
+		// DisplayName: Lottery Box
+		/* Tooltip:
+			'''
+			Spawn a Lottery Machine
+			"May have a hot temper"
+			''' */
+	}
+
+	ToyRock: {
+		// DisplayName: Toy Rock
+		/* Tooltip:
+			'''
+			Spawn Wyrm-chan
+			"She's still young"
+			''' */
+	}
+
+	YharimsStimulants: {
+		// DisplayName: Yharims Stimulants
+		// Tooltip: Gives decent buffs to ALL offensive and defensive stats
+	}
+
+	VoidBottle: {
+		// DisplayName: Void Bottle
+		// Tooltip: Summon Cruiser
+	}
+
+	VoidMonument: {
+		// DisplayName: Void Monument
+		// Tooltip: ""
+	}
+
+	Lore: {
+		// CruiserLore.DisplayName: Cruiser
+		// NihilityTwinLore.DisplayName: Nihility Twin
+	}
+
+	BrokenChainsaw: {
+		// DisplayName: Broken Chainsaw
+		// Tooltip: ""
+	}
+
+	MechanicalChainsaw: {
+		// DisplayName: Mechanical Chainsaw
+		// Tooltip: ""
+	}
+
+	EnslavedStar: {
+		// DisplayName: Enslaved Star
+		// Tooltip: ""
+	}
+
+	Euangelion: {
+		// DisplayName: Euangelion
+		// Tooltip: ""
+	}
+
+	Pioneer: {
+		// DisplayName: Pioneer
+		// Tooltip: ""
+	}
+
+	GodsSnack: {
+		// DisplayName: Gods Snack
+		// Tooltip: ""
+	}
+
+	CruiserBag: {
+		// DisplayName: Treasure Bag(Cruiser)
+		// Tooltip: ""
+	}
+
+	CruiserRelic: {
+		// DisplayName: Cruiser Relic
+		// Tooltip: ""
+	}
+
+	DivineRemnants: {
+		// DisplayName: Divine Remnants
+		// Tooltip: ""
+	}
+
+	VoidElytra: {
+		// DisplayName: Void Elytra
+		/* Tooltip:
+			'''
+			Horizontal speed: 10
+			Acceleration multiplier: 3
+			Excellent vertical speed
+			Flight time: 290
+			Allow you to dash in four directions
+			[c/356498:Dedicate life to the void and achieve breakthroughs in the limits]
+			''' */
+	}
+
+	BottleDarkMatter: {
+		// DisplayName: Bottle Dark Matter
+		// Tooltip: ""
+	}
+
+	DivineIntervention: {
+		// DisplayName: Divine Intervention
+		/* Tooltip:
+			'''
+			Shoot a Divine Shield
+			Rebound projectile in contact with the projectile
+			''' */
+	}
+
+	Godhead: {
+		// DisplayName: Godhead
+		// Tooltip: Your projectile will carry a halo, causing sustained damage to enemies within the halo
+	}
+
+	VoidEcho: {
+		/* Tooltip:
+			'''
+			Summon a circle of divine cannons
+			Releasing the mouse will simultaneously emit a void laser
+			"Even if it's just a part of the void, it has the power to annihilate all things"
+			''' */
+		// DisplayName: Symbol of Theocracy
+	}
+
+	FriendBox: {
+		// DisplayName: Friend Box
+		// Tooltip: ""
+	}
+
+	LightningPendant: {
+		// DisplayName: Lightning Pendant
+		// Tooltip: ""
+	}
+
+	EvilFriend: {
+		// DisplayName: Evil Friend
+		// Tooltip: Summon a Lil Brimstone
+	}
+
+	TheocracyPearlToy: {
+		// DisplayName: Theocracy Pearl Toy
+		// Tooltip: ""
+	}
+
+	CruiserTrophy: {
+		// Tooltip: ""
+		// DisplayName: Cruiser Trophy
+	}
+
+	VoidMonolith: {
+		// Tooltip: ""
+		// DisplayName: Void Monolith
+	}
+
+	VoidToy: {
+		// DisplayName: Void Toy
+		// Tooltip: ""
+	}
+
+	WingsOfHush: {
+		// Tooltip: Shoot powerful void arrow
+		// DisplayName: Wings Of Hush
+	}
+
+	SoyMilk: {
+		// DisplayName: Soy Milk
+		// Tooltip: More attack speed, less damage
+	}
+
+	DarkArts: {
+		// Tooltip: "[c/ff0000:This item is now WIP]"
+		// DisplayName: Dark Arts
+	}
+
+	VenomPiece: {
+		// DisplayName: Venom Piece
+		// Tooltip: ""
+	}
+
+	WisdomCard: {
+		// Tooltip: -20% Mana Cost
+		// DisplayName: 『Wisdom』
+	}
+
+	TemperanceCard: {
+		// Tooltip: +2 Minion Slot
+		// DisplayName: 『Temperance』
+	}
+
+	RadianceCard: {
+		// Tooltip: +20% Life Regen
+		// DisplayName: 『Radiance』
+	}
+
+	OracleDeck: {
+		/* Tooltip:
+			'''
+			+8% Crit Chance
+			+30% Move Speed
+			+12 Max Stealth
+			-30% Mana Cost
+			-12% Damage Taken
+			+10 Armor Penetration
+			+2 Minion Slot
+			+100% Light
+			Heal players nearby 20 per 5 sec
+			''' */
+		// DisplayName: Oracle Deck
+	}
+
+	MetropolisCard: {
+		// Tooltip: +10 Max Stealth
+		// DisplayName: 『Metropolis』
+	}
+
+	InspirationCard: {
+		// Tooltip: +20% Move Speed
+		// DisplayName: 『Inspiration』
+	}
+
+	EntityCard: {
+		// Tooltip: + 10% Melee Attack Speed
+		// DisplayName: 『Entity』
+	}
+
+	EnduranceCard: {
+		// Tooltip: -12% Damage Taken
+		// DisplayName: 『Endurance』
+	}
+
+	BrillianceCard: {
+		// Tooltip: +20% Life Regen
+		// DisplayName: 『Brilliance』
+	}
+
+	AuraCard: {
+		// Tooltip: +5% Crit Chance
+		// DisplayName: 『Aura』
+	}
+
+	ThreadOfFate: {
+		/* Tooltip:
+			'''
+			Can be used to craft Oracle Deck
+			Need those cards:
+			Aura: Golden Chest，Iron Crate: 10%
+			Brilliance: Selling at merchants' premises
+			Entity: Loot from Giant Clam
+			Inspiration:Desert Chest: 30%
+			Metropolics: Using bookshelf to create
+			Wisdom: Loot from Skeletron
+			Radiance: Using Crystal Ball to create
+			Temperance: Loot from Skeletron Prime
+			Endurance: Abyssal Chests : 33%(Conflict with Infernum Mode)
+			''' */
+		// DisplayName: Thread Of Fate
+	}
+
+	RuneSong: {
+		// DisplayName: Rune Song
+		// Tooltip: ""
+	}
+
+	GalaxyGrapeSoda: {
+		// Tooltip: ""
+		// DisplayName: Galaxy Grape Soda
+	}
+
+	VoidAnnihilate: {
+		// DisplayName: Void Annihilate
+		/* Tooltip:
+			'''
+			throw a Void Annihilate
+			Press [KEY] To Retrieve all
+			Right click a void annihilate to teleport to it.
+			''' */
+	}
+
+	AuricBoulder: {
+		// DisplayName: Auric Boulder
+		// Tooltip: ""
+	}
+
+	DustyStar: {
+		// Tooltip: ""
+		// DisplayName: Dusty Star
+	}
+
+	SoulCandle: {
+		// DisplayName: Soul Candle
+		/* Tooltip:
+			'''
+			Summon the Assassin of the God
+			"Although the blade is small, it is sharp enough"
+			''' */
+	}
+
+	KosRunePendant: {
+		// DisplayName: Kos Rune Pendant
+		// Tooltip: Summon the Devourer and the Little Apostle
+	}
+
+	OdinsRefuge: {
+		// DisplayName: Odins Refuge
+		/* Tooltip:
+			'''
+			Allows the ability to ram dash, empowered by the cosmic inferno
+			This dash can slam through enemies without taking damage
+			Grants immunity to knockback and fire blocks
+			Grants immunity to the vast majority of debuffs, including God Slayer Inferno
+			Causes stars to fall and increases length of invincibility after taking damage
+			Grants bonus invincibility frames based on your missing health
+			This effect scales from 10 frames at full HP to 40 frames at 25% or less HP
+			Being struck for over 200 damage grants 30 additional invincibility frames
+			Grants immunity to knockback
+			Puts a shell around the owner when below 50% life that reduces damage taken
+			Absorbs 25% of damage done to players on your team when above 25% life
+			Provide you with a Holy Shield that can withstand damage once
+			This effect has a 90 second cooldown time
+			''' */
+	}
+
+	VoidBar: {
+		// DisplayName: Void Bar
+		// Tooltip: A tightly packed void
+	}
+
+	VoidOre: {
+		// DisplayName: Void Ore
+		// Tooltip: Unstable substances generated by the infiltration of void
+	}
+
+	VoidScales: {
+		// Tooltip: A scale composed of pure void
+		// DisplayName: Void Scales
+	}
+
+	HolyMoonlight: {
+		// DisplayName: Holy Moonlight
+		/* Tooltip:
+			'''
+			Get a magic shield every thirty seconds, which is equivalent to 60% of the magic limit,
+			During the existence of the Magic Shield, increase movement speed by 10% and reduce magic consumption by 10%,
+			The shield will deal damage to the enemies it touches,
+			When the magic shield is broken, it eliminates its own magic sickness and benefits, and returns to its full magic value,
+			When there is no shield, magic barrage can suck blood,
+			The higher your current magic value, the higher your blood sucking ability
+			+10% Magic Damage
+			''' */
+	}
+
+	PhantomPlanetKillerEngine: {
+		// DisplayName: Phantom Planet Killer Engine
+		/* Tooltip:
+			'''
+			Summon a Planet Killer warship to shoot at your enemies
+			Warships will consume the bullets in your inventory
+			Alternate firing rockets and bullets
+			Will not consume ammunition
+			33% chance of firing bullets, doubling
+			Launch a laser every 20 shots
+			''' */
+	}
+
+	PowerOfTyrant: {
+		// DisplayName: Power Of Tyrant
+		// Tooltip: ""
+	}
+
+	VoidFaquirCuises: {
+		/* Tooltip:
+			'''
+			+10% Damage
+			+10% Crit Chance
+			+20% Movement Speed
+			''' */
+		// DisplayName: Void Faquir Cuises
+	}
+
+	VoidFaquirBodyArmor: {
+		/* Tooltip:
+			'''
+			+5% Damage
+			+5% Crit Chance
+			+5 Armor Penetration
+			''' */
+		// DisplayName: Void Faquir Body Armor
+	}
+
+	VoidFaquirDevourerHelm: {
+		/* Tooltip:
+			'''
+			+30% Melee Damage
+			+25% Melee Crit Chance
+			''' */
+		// DisplayName: Void Faquir Devourer Helm
+	}
+
+	VoidFaquirCosmosHood: {
+		/* Tooltip:
+			'''
+			+35% Magic Damage
+			+25% Magic Crit Chance
+			+150 Max Mana
+			''' */
+		// DisplayName: Void Faquir Cosmos Hood
+	}
+
+	VoidFaquirEvokerHelm: {
+		// DisplayName: Void Faquir Evoker Helm
+		// Tooltip: +25% Summon Damage
+	}
+
+	VoidFaquirLurkerMask: {
+		// DisplayName: Void Faquir Lurker Mask
+		/* Tooltip:
+			'''
+			+25% Rogue Damage
+			+25% Rogue Crit Chance
+			''' */
+	}
+
+	VoidFaquirShadowHelm: {
+		// DisplayName: Void Faquir Shadow Helm
+		/* Tooltip:
+			'''
+			+35% Ranged Damage
+			+35% Ranged Crit Chance
+			''' */
+	}
+
+	GreedCard: {
+		// DisplayName: 『Greed』
+		// Tooltip: +2% damage for each summon slots
+	}
+
+	GhostdomWhisper: {
+		/* Tooltip:
+			'''
+			Long press the left mouse button to charge and shoot
+			Charge up and shoot an arrow reinforced by the void
+			''' */
+		// DisplayName: Ghostdom Whisper
+	}
+
+	Interdimensionallens: {
+		// Tooltip: Project the appearance behind the world
+		// DisplayName: Interdimensional Lens
+	}
+
+	PowerBank: {
+		// Tooltip: When put it in your inventory, Automatically recharge the items in your inventory
+		// DisplayName: Power Bank
+	}
+
+	RustyGrenade: {
+		// DisplayName: Rusty Grenade
+		// Tooltip: ""
+	}
+
+	RustExpeditioner: {
+		// Tooltip: ""
+		// DisplayName: Rust Expeditioner
+	}
+
+	VoidDevastator: {
+		// DisplayName: Void Devastator
+		// Tooltip: ""
+	}
+
+	GodSlayerRocket: {
+		// DisplayName: God Slayer Rocket
+		// Tooltip: ""
+	}
+
+	RailPulseBow: {
+		// Tooltip: ""
+		// DisplayName: Rail Pulse Bow
+	}
+
+	JailerWhip: {
+		// Tooltip: +8 Minion Damage
+		// DisplayName: Jailer Whip
+	}
+
+	SilvasCrown: {
+		// DisplayName: Silva's Crown
+		/* Tooltip:
+			'''
+			+ 8 Life Regen/s
+			-8% Crit Chance
+			Remove defense damage.
+			-Death Mode-
+			''' */
+	}
+
+	AbyssalDragon: {
+		// DisplayName: Abyssal Dragon
+		// Tooltip: ""
+	}
+
+	ArchmagesHandmirror: {
+		/* Tooltip:
+			'''
+			Gives you 30% extra mana
+			Every 1 extra mana provides 0.3% magic damage bonus
+			''' */
+		// DisplayName: Archmage's Handmirror
+	}
+
+	SlimeYoyo: {
+		// DisplayName: Slime Yoyo
+		// Tooltip: ""
+	}
+
+	CelestialRing: {
+		/* Tooltip:
+			'''
+			+15% damage
+			+2HP/s Life Regen
+			+4 Max Minions
+			+75% Minions Knockback
+			+5% Crit Chance
+			+5% Move Speed
+			+5% Melee Speed
+			''' */
+		// DisplayName: Celestial Ring
+	}
+
+	ArmorReforgStation: {
+		// DisplayName: Armor Reforg Station
+		// Tooltip: ""
+	}
+
+	OverloadFurnace: {
+		// Tooltip: ""
+		// DisplayName: Overload Furnace
+	}
+
+	RustyDetectionEquipment: {
+		// DisplayName: Rusty Detection Equipment
+		/* Tooltip:
+			'''
+			Improve your jumping speed
+			Give you a slight push forward
+			Increase partial movement speed
+			''' */
+	}
+
+	MagneticController: {
+		// DisplayName: Magnetic Controller
+		// Tooltip: ""
+	}
+
+	Mercy: {
+		// Tooltip: Use Void and Dark Magic to Burn Everything Down
+		// DisplayName: Mercy
+	}
+
+	CannedCarrion: {
+		// Tooltip: ""
+		// DisplayName: Canned Carrion
+	}
+
+	LostSoul: {
+		// DisplayName: Lost Soul
+		// Tooltip: '''"Protect him"'''
+	}
+
+	ShadowOfVoid: {
+		// Tooltip: ""
+		// DisplayName: Shadow Of Void
+	}
+
+	HorizonssKey: {
+		/* Tooltip:
+			'''
+			[c/d9bd1b:The strength of this weapon increases as the game progresses]
+			[c/d9bd1b:Affected by the bonus of all damage classes]
+			''' */
+		// DisplayName: Horizons' Key
+	}
+
+	SacrificalMask: {
+		/* Tooltip:
+			'''
+			Summon a circle of sacrificial daggers around you
+			The dagger will stab nearby enemies and heal you
+			''' */
+		// DisplayName: Sacrifical Mask
+	}
+
+	SilverFramedGlasses: {
+		// Tooltip: ""
+		// DisplayName: Silver Framed Glasses
+	}
+
+	TargetingWand: {
+		// Tooltip: "[c/ff0000:This item is now WIP]"
+		// DisplayName: Targeting Wand
+	}
+
+	DimensionKey: {
+		// DisplayName: Dimension Key
+		// Tooltip: "[c/ff0000:This item is now WIP]"
+	}
+
+	DreamCatcher: {
+		// DisplayName: Dream Catcher
+		// Tooltip: ""
+	}
+
+	UhrwerkHammer: {
+		// DisplayName: Kernschmelze
+		// Tooltip: ""
+	}
+
+	AquaticFlute: {
+		// Tooltip: ""
+		// DisplayName: Aquatic Flute
+	}
+
+	HolyMantle: {
+		/* Tooltip:
+			'''
+			Provide you with a Holy Shield that can withstand damage once
+			This effect has a 90 second cooldown time
+			Loot from hallow monsters
+			''' */
+		// DisplayName: Holy Mantle
+	}
+
+	ToyKnife: {
+		// DisplayName: Toy Knife
+		// Tooltip: ""
+	}
+
+	DeusCore: {
+		// DisplayName: Deus Core
+		/* Tooltip:
+			'''
+			Transform the damage received into astral erosion, reducing the corresponding health for a period of time
+			The attack can erode and transfer astral erosion to the target, dealing more damage
+			- Death -
+			''' */
+	}
+
+	CarlosIceCream: {
+		// DisplayName: Carlo's Ice Cream
+		// Tooltip: Summon a Wum
+	}
+
+	CruiserPlush: {
+		// DisplayName: Cruiser Plush
+		// Tooltip: ""
+	}
+
+	AbyssalWraithPlush: {
+		// Tooltip: ""
+		// DisplayName: Abyssal Wraith Plush
+	}
+
+	GumgumGun: {
+		// DisplayName: Gumgum Gun
+		// Tooltip: ""
+	}
+
+	Voidshade: {
+		// Tooltip: ""
+		// DisplayName: Voidshade
+	}
+
+	Barren: {
+		// DisplayName: 『Barren』
+		// Tooltip: Rogue Projectile obtain micro tracking
+	}
+
+	Confuse: {
+		// DisplayName: 『Confuse』
+		// Tooltip: Attack to exert deceive debuff in enemies that Reduce their movement speed
+	}
+
+	Fool: {
+		// DisplayName: 『Fool』
+		/* Tooltip:
+			'''
+			+20% Mana Cost
+			+20% Magic Damage
+			''' */
+	}
+
+	Frail: {
+		// DisplayName: 『Frail』
+		/* Tooltip:
+			'''
+			+15% Damage
+			+10% Damage taken 
+			''' */
+	}
+
+	Nothing: {
+		// DisplayName: 『Nothing』
+		// Tooltip: +6 Void Touch
+	}
+
+	Perplexed: {
+		// DisplayName: 『Perplexed』
+		/* Tooltip:
+			'''
+			-5% Crit
+			+16% Attack Speed
+			''' */
+	}
+
+	Sacrifice: {
+		// DisplayName: 『Sacrifice』
+		/* Tooltip:
+			'''
+			-60% Life Regen
+			+20% Damage
+			''' */
+	}
+
+	Tarnish: {
+		// DisplayName: 『Tarnish』
+		// Tooltip: Launch shadow flames during attack
+	}
+
+	TaintedDeck: {
+		// DisplayName: Tainted Deck
+		/* Tooltip:
+			'''
+			Rogue Projectile obtain micro tracking
+			Attack to exert deceive debuff in enemies that Reduce their movement speed
+			Launch shadow flames during attack
+			+3% damage for each summon slots
+			+32% Damage
+			+4 Void Touch
+			+24% Damage taken
+			-70% Life Regen
+			+16% Mana Cost
+			-4% Crit
+			''' */
+	}
+
+	ThreadOfAbyss: {
+		// DisplayName: Thread Of Abyss
+		/* Tooltip:
+			'''
+			Used for making Tainted Deck
+			The following cards are required
+			Perplexed: the Twins Drop
+			Tarnish: goblin sorcerer drops
+			Confuse: sold by Dryad
+			Desolation: sold by Thief
+			Fool: Loot from Eidolist
+			Sacrifice: 6 Core of Chaos + 2 Perennial Bar
+			Greed: Fishing in Astral Infection Biome
+			Weakness: Loot from Slime God
+			Nothing: Loot from Eidolon Wyrm
+			''' */
+	}
+
+	VoidCandle: {
+		// DisplayName: VoidCandle
+		/* Tooltip:
+			'''
+			Right click after placing to make your attack apply Void Touch
+			“there were flames of void leaping at its top”
+			''' */
+	}
+
+	Antler: {
+		// DisplayName: Antler
+		// Tooltip: ""
+	}
+
+	ReincarnationBadge: {
+		// DisplayName: Reincarnation Badge
+		/* Tooltip:
+			'''
+			Press [KEY] to activate the coordinated state
+			In this state, you are not affected by gravity
+			And push away the surrounding projectiles
+			''' */
+	}
+
+	CrimsonNight: {
+		// Tooltip: ""
+		// DisplayName: Crimson Night
+	}
+
+	PoopPickup: {
+		// Tooltip: ""
+		// DisplayName: Poop Pickup
+	}
+
+	BrokenAnkh: {
+		/* Tooltip:
+			'''
+			Enable you to store some poops
+			Attack has a chance to obtain throwable poops
+			Press [KEY] to throw a poop
+			''' */
+		// DisplayName: Broken Ankh
+	}
+
+	DustyWhistle: {
+		// DisplayName: Dusty Whistle
+		// Tooltip: ""
+	}
+
+	AquaticAmulet: {
+		// DisplayName: Aquatic Amulet
+		// Tooltip: ""
+	}
+
+	NetherRift: {
+		// DisplayName: Nether Rift
+		// Tooltip: ""
+	}
+
+	MawOfTheVoid: {
+		/* Tooltip:
+			'''
+			Charging when using weapons,
+			when it is fully charged, release the mouse button to release a black laser ring
+			deals 225 damage every 3 frames
+			"Consume thy enemy!"
+			''' */
+		// DisplayName: Maw Of The Void
+	}
+
+	TheRevelation: {
+		/* Tooltip:
+			'''
+			Charging when using weapons,
+			when it is fully charged, release the mouse button to release a holy beam
+			deals 50 damage every 3 frames
+			Regarded as wing
+			hold [down] when flying to hover
+			"Awaken your faith"
+			''' */
+		// DisplayName: The Revelation
+	}
+
+	MosHat: {
+		// Tooltip: ""
+		// DisplayName: Mo's Hat
+	}
+
+	AnimaSola: {
+		// Tooltip: Lock the nearest target for 3 seconds
+		// DisplayName: Anima Sola
+	}
+
+	TestItem: {
+		// DisplayName: Test Item
+		// Tooltip: ""
+	}
+
+	LightWisper: {
+		// Tooltip: ""
+		// DisplayName: Light Wisper
+	}
+
+	Oblivion: {
+		// Tooltip: ""
+		// DisplayName: Oblivion
+	}
+
+	EyeOfIlmeris: {
+		// DisplayName: Eye Of Ilmeris
+		// Tooltip: ""
+	}
+
+	GravityGaze: {
+		// DisplayName: Gravity Gaze
+		// Tooltip: ""
+	}
+
+	DivineRadience: {
+		// Tooltip: ""
+		// DisplayName: Divine Radience
+	}
+
+	NightProjection: {
+		// DisplayName: Night Projection
+		// Tooltip: ""
+	}
+
+	OverloadLunar: {
+		// DisplayName: Overload Lunar
+		// Tooltip: ""
+	}
+
+	EyeOfOtherside: {
+		// Tooltip: ""
+		// DisplayName: Eye Of Otherside
+	}
+
+	EndlessAbyss: {
+		// Tooltip: Launch abyssal death laser and abyssal stars
+		// DisplayName: Endless Abyss
+	}
+
+	NihilityHorn: {
+		// DisplayName: Nihility Horn
+		// Tooltip: Summon Nihility Twin
+	}
+
+	NihilityTwinBag: {
+		// DisplayName: Nihility Twin Treasure Bag
+		// Tooltip: ""
+	}
+
+	NihilityTwinRelic: {
+		// DisplayName: Nihility Twin Relic
+		// Tooltip: ""
+	}
+
+	NihilityTwinTrophy: {
+		// DisplayName: Nihility Twin Trophy
+		// Tooltip: ""
+	}
+
+	NihilityShell: {
+		/* Tooltip:
+			'''
+			Critical hits will deal 250% damage
+			Probability of obtaining an energy shell during critical strike
+			The energy shell can reduce the damage you receive by 40% once
+			You can only get a maximum of two shells
+			''' */
+		// DisplayName: Nihility Shell
+	}
+
+	EventideSniper: {
+		/* Tooltip:
+			'''
+			Display the center position of the enemy when held
+			The more accurate the bullet hits, the higher the damage, up to a maximum increase of 200%
+			If you hit accurately enough, you will definitely hit critically and cause damage to the Void Touch, reducing its benefits
+			''' */
+		// DisplayName: Eventide
+	}
+
+	NihilityBacteriophageWand: {
+		// DisplayName: Nihility Bacteriophage Wand
+		/* Tooltip:
+			'''
+			Summon a tiny Nihility Bacteriophage.
+			Each Nihility Bacteriophage needs 2 summon slots.
+			Nihility Bacteriophage will stick to enemies and heal you when necessary
+			''' */
+	}
+
+	AntiVoid: {
+		// Tooltip: ""
+		// DisplayName: Anti Void
+	}
+
+	AbyssLantern: {
+		// Tooltip: ""
+		// DisplayName: Abyss Lantern
+	}
+
+	WispLantern: {
+		/* Tooltip:
+			'''
+			Randomly activate 1 to 3 accessories from your inventory
+			"Illuminate your future"
+			''' */
+		// DisplayName: Wisp Lantern
+	}
+
+	WyrmToothNecklace: {
+		// DisplayName: Wyrm Tooth Necklace
+		/* Tooltip:
+			'''
+			+25% Damage
+			+45 Armor penetration
+			+8% Crit Chance
+			''' */
+	}
+
+	WyrmTooth: {
+		// DisplayName: Wyrm Tooth
+		// Tooltip: ""
+	}
+
+	Vitalfeather: {
+		// DisplayName: Vitalfeather
+		// Tooltip: The enemy hited by your minion will launch tracking dragon flames
+	}
+
+	WindOfUndertaker: {
+		// DisplayName: Wind Of Undertaker
+		// Tooltip: ""
+	}
+
+	HadopelagicEchoII: {
+		// Tooltip: Shoot abyss laser and hadopelagic echo
+		// DisplayName: Hadopelagic Echo II
+	}
+
+	StarlessNight: {
+		// Tooltip: ""
+		// DisplayName: Starless Night
+	}
+
+	WhipOfService: {
+		// DisplayName: Whip Of Service
+		/* Tooltip:
+			'''
+			Attacking other players temporarily increases their damage and crit chance.
+			"Turn your teammates into minions"
+			''' */
+	}
+
+	Xytheron: {
+		// DisplayName: Xytheron
+		/* Tooltip:
+			'''
+			Hit the target and accumulate energy for charging
+			Right click to advance and deal damage to enemies along the way based on charging and leaving abyssal crack
+			''' */
+	}
+
+	AbyssalAltar: {
+		// DisplayName: Abyssal Altar
+		// Tooltip: ""
+	}
+
+	Ystralyn: {
+		// DisplayName: Ystralyn
+		// Tooltip: Summon an Eidolon Wyrm phantom when hit enemies
+	}
+
+	VoidPathology: {
+		// Tooltip: Summon a controllable, continuous electric shock to the enemy's nihility virus
+		// DisplayName: Void Pathology
+	}
+
+	AnnihilateArrow: {
+		// Tooltip: ""
+		// DisplayName: Annihilate Arrow
+	}
+
+	NegentropyBullet: {
+		// DisplayName: Negentropy Bullet
+		// Tooltip: ""
+	}
+
+	Zyphros: {
+		/* Tooltip:
+			'''
+			Shoot tracking crystal arrows
+			Probability summoning crystals that can coordinate attacks during attacks
+			''' */
+		// DisplayName: Zyphros
+	}
+
+	FriendFinder: {
+		// Tooltip: Summon a friendly monster
+		// DisplayName: Friend Finder
+	}
+
+	HeartOfStorm: {
+		/* Tooltip:
+			'''
+			Strike the enemy and unleash a chain of lightning that deals 25% damage
+			- Death -
+			''' */
+		// DisplayName: Heart Of Storm
+	}
+
+	Nyxolithraken: {
+		/* Tooltip:
+			'''
+			Summon a Nyxolith Dragon
+			Takes 5 minion slot
+			''' */
+		// DisplayName: Nyxolithraken
+	}
+
+	MariviniumBodyArmor: {
+		// DisplayName: Marivinium Body Armor
+		/* Tooltip:
+			'''
+			+15% Damage Reduce
+			+15% Damage
+			+15 Crit Chance
+			+250 Max Mana
+			Now you can breath in the abyss
+			''' */
+	}
+
+	MariviniumHelmet: {
+		// DisplayName: Marivinium Helmet
+		/* Tooltip:
+			'''
+			+20% Damage
+			+20% Crit Chance
+			+25% Melee Speed
+			+300 Max Life
+			''' */
+	}
+
+	MariviniumLeggings: {
+		// DisplayName: Marivinium Leggings
+		/* Tooltip:
+			'''
+			+15% Speed
+			-20% Mana Cost
+			+20 Damage
+			+5 Crit Chance
+			''' */
+	}
+
+	ToyGuitar: {
+		// DisplayName: Toy Guitar
+		// Tooltip: ""
+	}
+
+	AncientScriptures: {
+		// DisplayName: Ancient Scriptures
+		// Tooltip: ""
+	}
+
+	BookMarkBrimstone: {
+		// DisplayName: Bookmark - Brimstone
+		// Tooltip: Summon a sulfur fire vortex that will fire a blood laser column towards the enemy during shooting
+	}
+
+	BookMarkAerialite: {
+		/* Tooltip:
+			'''
+			Falling feathers from the sky after hitting the enemy
+			+50% Shot Speed
+			''' */
+		// DisplayName: Bookmark - Aerialite
+	}
+
+	BookMarkFlesh: {
+		// DisplayName: Bookmark - Flesh
+		/* Tooltip:
+			'''
+			Split blood beam when your projectile hit enemies
+			+1 Penetration
+			+1 Life steal
+			''' */
+	}
+
+	BookMarkIce: {
+		// DisplayName: Bookmark - Ice
+		// Tooltip: When shooting, shoot an ice sword from behind and pierce the enemy
+	}
+
+	InfiniteBook: {
+		// Tooltip: ""
+		// DisplayName: Infinite Book
+	}
+
+	BookMarkOfLight: {
+		// DisplayName: Bookmark Of Light
+		/* Tooltip:
+			'''
+			Hit probability summons the Soul of Light
+			The Soul will collide with and destroy nearby bullets and heal you 1% of your maximum health
+			''' */
+	}
+
+	BookMarkOfNight: {
+		// DisplayName: Bookmark Of Night
+		/* Tooltip:
+			'''
+			Summon Dark Souls that will chase and explode the enemy after hitting the enemy
+			+10% Damage
+			''' */
+	}
+
+	BookMarkMechanical: {
+		// DisplayName: Bookmark - Mechanical
+		/* Tooltip:
+			'''
+			Probability summoning detector to attack enemies during launch
+			Projectiles homing
+			+6 Armor Penetration
+			''' */
+	}
+
+	BookMarkAstral: {
+		// Tooltip: Launch a dazzling star that will shoot projectiles towards the enemy
+		// DisplayName: Bookmark - Astral
+	}
+
+	BookMarkTerra: {
+		/* Tooltip:
+			'''
+			Launching boulders
+			+15% Damage
+			+3 Penetrate 
+			''' */
+		// DisplayName: Bookmark - Terra
+	}
+
+	BookMarkLunar: {
+		// DisplayName: Bookmark - Lunar
+		// Tooltip: Projectile can harm enemies around them
+	}
+
+	BookMarkAbyss: {
+		// Tooltip: Probability of deep abyss tearing upon impact
+		// DisplayName: Bookmark - Abyss
+	}
+
+	BookMarkProfaned: {
+		// DisplayName: Bookmark - Profaned
+		// Tooltip: Projectiles will shoot profaned fire to enemies
+	}
+
+	BookMarkVoid: {
+		// DisplayName: Bookmark - Void
+		// Tooltip: The projectile hitting the enemy has a probability of causing an void explosion
+	}
+
+	BookMarkAuric: {
+		// DisplayName: Bookmark - Auric
+		// Tooltip: Projectile will shoot dragon fire when hit enemies
+	}
+
+	BookMarkSilva: {
+		/* Tooltip:
+			'''
+			Projectiles have a chance to spawn a Soul of Origin upon hitting an enemy
+			The Soul of Origin will fly back to you, healing you and providing a small amount of temporary armor
+			''' */
+		// DisplayName: Bookmark - Silva
+	}
+
+	BookMarkBee: {
+		// Tooltip: Spawns bees upon hitting an enemy
+		// DisplayName: Bookmark - Bee
+	}
+
+	BookMarkSulphurousSea: {
+		// DisplayName: Bookmark - SulphurousSea
+		// Tooltip: Spawns aquashard upon hitting an enemy
+	}
+
+	BookMarkCorrupt: {
+		/* Tooltip:
+			'''
+			Chance to summon Shadow Tentacles upon hitting an enemy
+			+12% Attack Speed
+			+6 Armor Penetration
+			''' */
+		// DisplayName: Bookmark - Corrupt
+	}
+
+	BookMarkCrimson: {
+		// DisplayName: Bookmark - Crimson
+		/* Tooltip:
+			'''
+			Chance to summon a Fountain of Blood from below upon hitting an enemy
+			+2 Life steal
+			+8 Crit Chance
+			''' */
+	}
+
+	BookMarkGoozma: {
+		// DisplayName: Rainbow Erosion Bookmark
+		// Tooltip: Rapidly fires colorful stars
+	}
+
+	BookMarkIntergelactic: {
+		// DisplayName: Bookmark - Intergelactic
+		// Tooltip: Chance to summon nova slime when shooting
+	}
+
+	BookMarkAquarius: {
+		// DisplayName: Bookmark - Aquarius
+		// Tooltip: Scatters water projectiles upon hitting an enemy
+	}
+
+	BookMarkAries: {
+		// DisplayName: Bookmark - Aries
+		/* Tooltip:
+			'''
+			Attacks cause a small area-of-effect explosion
+			+14% Damage
+			''' */
+	}
+
+	BookMarkTaurus: {
+		// DisplayName: Bookmark - Taurus
+		// Tooltip: Your projectiles will split to 3 small projectile after on hit
+	}
+
+	BookMarkCancer: {
+		// DisplayName: Bookmark - Cancer
+		/* Tooltip:
+			'''
+			Projectiles reduce the speed and damage of enemy projectiles they collide with
+			+160% Projectile Size
+			''' */
+	}
+
+	BookMarkCapricorn: {
+		// Tooltip: Continuous use increases firing speed, up to +40%
+		// DisplayName: Bookmark - Capricorn
+	}
+
+	BookMarkLeo: {
+		/* Tooltip:
+			'''
+			+20% Damage
+			+40% Projectile Size
+			''' */
+		// DisplayName: Bookmark - Leo
+	}
+
+	BookMarkSagittarius: {
+		// DisplayName: Bookmark - Sagittarius
+		/* Tooltip:
+			'''
+			+6% Damage
+			+4 Penetrate
+			+26% Shot Speed
+			''' */
+	}
+
+	BookMarkPisces: {
+		// DisplayName: Bookmark - Pisces
+		/* Tooltip:
+			'''
+			Fires an additional smaller projectile when attacking
+			+6 Armor Penetration
+			''' */
+	}
+
+	BookMarkVirgo: {
+		// DisplayName: Bookmark - Virgo
+		/* Tooltip:
+			'''
+			+14% Damage
+			+3 Penetrate
+			''' */
+	}
+
+	BookMarkLibra: {
+		// DisplayName: Bookmark - Libra
+		/* Tooltip:
+			'''
+			+4% Damage
+			+4% Attack Speed
+			+4% Crit Chance
+			+5% Projectile Speed
+			+1 Penetration
+			+4 Armor Penetration
+			Additionally increases the lower of either Damage or Attack Speed by 4%
+			''' */
+	}
+
+	BookMarkGemini: {
+		// DisplayName: Bookmark - Gemini
+		// Tooltip: Projectile homing
+	}
+
+	BookMarkScorpio: {
+		// DisplayName: Bookmark - Scorpio
+		// Tooltip: Attacks inflict a stacking Astral Scorpion Poison debuff, dealing damage over time
+	}
+
+	BookmarkPactOfDecay: {
+		// DisplayName: Pact of Decay
+		/* Tooltip:
+			'''
+			Spawns a Whispering Maelstrom during shooting
+			Projectiles will apply Vulnerability Hex debuff
+			''' */
+	}
+
+	BookmarkPactOfWar: {
+		/* Tooltip:
+			'''
+			Summon Mini Exo Twins during shooting
+			Projectiles will apply Miracle Blight debuff
+			''' */
+		// DisplayName: Pact of War
+	}
+
+	UpdraftTome: {
+		// Tooltip: ""
+		// DisplayName: Updraft Tome
+	}
+
+	RedemptionBible: {
+		// Tooltip: ""
+		// DisplayName: Redemption Bible
+	}
+
+	NightEpic: {
+		// DisplayName: Night Epic
+		// Tooltip: ""
+	}
+
+	AshTranscript: {
+		// DisplayName: Ash Transcript
+		// Tooltip: ""
+	}
+
+	VoidOde: {
+		// Tooltip: ""
+		// DisplayName: Void Ode
+	}
+
+	BookMarkNeutron: {
+		// DisplayName: Bookmark - Neutron
+		// Tooltip: Chance to cause a neutron explosion when projectiles hit enemies
+	}
+
+	ControlTerminal: {
+		// DisplayName: Control Terminal
+		// Tooltip: ""
+	}
+
+	TabooVolume: {
+		// DisplayName: Taboo Volume
+		// Tooltip: ""
+	}
+
+	BookMarkRoyal: {
+		// DisplayName: Book Mark Royal
+		/* Tooltip:
+			'''
+			Summon 3 Jewels
+			Ruby Jewel will shot at enemies
+			Emerald Jewel will dash to enemies
+			Sapphire Jewel will give players nearby buffs
+			''' */
+	}
+
+	EntropyModeToggle: {
+		/* Tooltip:
+			'''
+			Active/Deactive Entropy Mode
+			More challenging, Less Health, Less Damage
+			''' */
+		// DisplayName: Entropy Mode Toggle
+	}
+}
+
+/* MariviniumSet:
+	'''
+	Armor Bonus:
+	-30% Melee Damage Taken
+	+10 Minion Slot
+	+100% Summon Damage
+	+40% Whip Range
+	+5% Summon Crit
+	+15% Damage Reduce
+	+100 Armor Penetration
+	if your crit chance is over 100%, convert excess crit chance into damage bonus
+	+140 Rogue Stealth
+	When standing, increase life regen
+	Immunity to most debuffs
+	When using true melee weapons, +15% Damage reduce and 25 defense
+	Stealth strike has a probability of causing an water explosion
+	Obtain 2 layers of shields, which will take 10 seconds to recover after being shattered
+	After shield shattered, treat 140 health points and increace your damage by 100% for 5 seconds
+	''' */
+// DeathMode: Death Mode
+// CdMantle: Holy Mantle Cooldown
+
+Projectiles: {
+	// VoidBladeProj.DisplayName: Void Blade
+	// VoidBladeHit.DisplayName: Void Blade Hit
+	// RevelationThrow.DisplayName: Revelation Throw
+	// RevelationMelee.DisplayName: Revelation Melee
+	// Rvshoot.DisplayName: Rvshoot
+	// PrisonOfPermafrostCircle.DisplayName: Prison Of Permafrost
+	// IceSpike.DisplayName: Ice Spike
+	// IceSpikeSmall.DisplayName: Ice Spike Small
+	// Icicle.DisplayName: Icicle
+	// IceEdge.DisplayName: Ice Edge
+	// LightningBolt.DisplayName: Lightning Bolt
+	// LightningSpear.DisplayName: Lightning Spear
+	// Lightning.DisplayName: Lightning
+	// Impact.DisplayName: Impact
+	// Lcircle.DisplayName: Lcircle
+	// VoidMark.DisplayName: Void Mark
+	// Slash.DisplayName: Slash
+	// Slash2.DisplayName: Slash2
+	// AtlasNuc.DisplayName: Atlas Nuc
+	// AtlasItem.DisplayName: Atlas Item
+	// LMSpawner.DisplayName: Spawner
+	// WyrmChan.DisplayName: Wyrm Chan
+	// VoidStar.DisplayName: Void Star
+	// CruiserLaserMouth.DisplayName: Nihility Laser
+	// VoidExplode.DisplayName: Void Explode
+	// VoidMonumentProj.DisplayName: Void Monument Proj
+	// Vmwave.DisplayName: Vmwave
+	// MonumentGround.DisplayName: Monument Ground
+	// VoidBottleThrow.DisplayName: Void Bottle Throw
+	// BrokenChainsaw0.DisplayName: Broken Chainsaw
+	// MechanicalChainsaw0.DisplayName: Mechanical Chainsaw
+	// EnslavedStar0.DisplayName: Enslaved Star
+	// Euangelion0.DisplayName: Euangelion
+	// Pioneer0.DisplayName: Pioneer
+	// CruiserSlash.DisplayName: Cruiser Slash
+	// DoG.DisplayName: DoG
+	// CruiserBlackhole.DisplayName: Cruiser Blackhole
+	// CruiserBlackholeBullet.DisplayName: Cruiser Blackhole Bullet
+	// VoidSpike.DisplayName: Void Spike
+	// BHExp.DisplayName: Explosion
+	// Rvshoot2.DisplayName: Rvshoot
+	// CruiserLaser2.DisplayName: Cruiser Laser
+	// AstrumDeus.DisplayName: Astrum Deus
+	// AstralShot.DisplayName: Astral Shot
+	// DarkFissure.DisplayName: Dark Fissure
+	// DivingShield.DisplayName: Divine Shield
+	// VoidEchoProj.DisplayName: Void Echo Proj
+	// TwistedTwin.DisplayName: Twisted Twin
+	// StormWeaverPet.DisplayName: Storm Weaver
+	// VoidLaser.DisplayName: Void Laser
+	// VoidBlaster.DisplayName: Void Blaster
+	// VBSpawner.DisplayName: V B Spawner
+	// Brimstone.DisplayName: Brimstone
+	// LilBrimstone.DisplayName: Lil Brimstone
+	// SilenceHook.DisplayName: Silence Hook
+	// SilenceThrow.DisplayName: Silence Throw
+	// AbyssPet.DisplayName: Abyss Pet
+	// VoidPalProj.DisplayName: Void Pal Proj
+	// WohShot.DisplayName: Woh Shot
+	// VoidStarF.DisplayName: Void Star
+	// WohLaser.DisplayName: Woh Laser
+	// MelonCatProj.DisplayName: Melon Cat Proj
+	// RuneSong.DisplayName: Rune Song
+	// RuneSongProj.DisplayName: Rune Song Proj
+	// RuneArrow.DisplayName: Rune Arrow
+	// Rune.DisplayName: Rune
+	// VoidAnnihilateProj.DisplayName: Void Annihilate Proj
+	// VaProj.DisplayName: Va Proj
+	// AuricBoulderProj.DisplayName: Auric Boulder Proj
+	// SigPetProj.DisplayName: Sig Pet Proj
+	// AuricBoulderProjFriendly.DisplayName: Auric Boulder Proj Friendly
+	// MoonlightShieldBreak.DisplayName: Moonlight Shield Break
+	// PlanetKiller.DisplayName: Planet Killer
+	// PoTProj.DisplayName: Po T Proj
+	// PoTPhantom.DisplayName: Po T Phantom
+	// ShadewindLanceThrow.DisplayName: Shadewind Lance Throw
+	// VoidRExp.DisplayName: Void R Exp
+	// GhostdomWhisperHoldout.DisplayName: Ghostdom Whisper Holdout
+	// VoidWraith.DisplayName: Void Wraith
+	// VoidBullet.DisplayName: Void Bullet
+	// VoidMonster.DisplayName: Void Symbiont
+	// VoidMonsterShoot.DisplayName: Void Symbiont Shoot
+	// RustyGrenadeProjectile.DisplayName: Rusty Grenade Projectile
+	// GodSlayerRocket.DisplayName: God Slayer Rocket
+	// GodSlayerRocketProjectile.DisplayName: God Slayer Rocket Projectile
+	// RailPulseBowProjectile.DisplayName: Rail Pulse Bow Projectile
+	// JailerWhipProjectile.DisplayName: Jailer Whip Projectile
+	// VoidLightBall.DisplayName: Void Light Ball
+	// SpImpact.DisplayName: Sp Impact
+	// SighterPin.DisplayName: Sighter Pin
+	// VoidFeather.DisplayName: Void Feather
+	// HugeLightBall.DisplayName: Huge Light Ball
+	// HomingLightBall.DisplayName: Homing Light Ball
+	// AbyssalLaser.DisplayName: Abyssal Laser
+	// TwistedTwinMinion.DisplayName: Twisted Twin Minion
+	// AbyssalDragonHoldout.DisplayName: Abyssal Dragon Holdout
+	// AbyssDragonProj.DisplayName: Abyss Dragon Proj
+	// AbyssalStar.DisplayName: Abyssal Star
+	// SlimeYoyoProjectile.DisplayName: Slime Yoyo Projectile
+	// OverloadFurnaceHoldout.DisplayName: Overload Furnace Holdout
+	// LightningBall.DisplayName: Lightning Ball
+	// Teletor.DisplayName: Teletor
+	// MercySpawner.DisplayName: Mercy Spawner
+	// HelhieimBlaster.DisplayName: Helhieim Blaster
+	// MercyShoot.DisplayName: Mercy Shoot
+	// HB.DisplayName: H B
+	// EaterProj.DisplayName: Eater
+	// LostSoulProj.DisplayName: Lost Soul
+	// MantleBreak.DisplayName: Mantle Break
+	// CruiserShadow.DisplayName: Cruiser Shadow
+	// SamsaraCasketProj.DisplayName: Samsara Casket Proj
+	// Recovery.DisplayName: Recovery
+	// Dirge.DisplayName: Dirge
+	// CyanSunshine.DisplayName: Cyan Sunshine
+	// Asleep.DisplayName: Asleep
+	// SacredJudge.DisplayName: Sacred Judge
+	// SoulDissipate.DisplayName: Soul Dissipate
+	// ZeratosHeart.DisplayName: Zeratos' Heart
+	// e0.DisplayName: Effect
+	// AsleepPhantom.DisplayName: Asleep Phantom
+	// CyanFeather.DisplayName: Cyan Feather
+	// RecoveryVineTop.DisplayName: Recovery Vine Top
+	// RecoveryVine.DisplayName: Recovery Vine
+	// FlowerSkeleton0.DisplayName: Flower Skeleton
+	// LunarExplode0.DisplayName: Lunar Explode
+	// FireDragonsRoar.DisplayName: Fire Dragons Roar
+	// ZeratosBullet0.DisplayName: Zeratos Bullet
+	// ZeratosFireball0.DisplayName: Zeratos Explode
+	// SacrificalDagger.DisplayName: Sacrifical Dagger
+	// TargetSetProj.DisplayName: Target Set
+	// UhrwerkHammerCallout.DisplayName: Uhrwerk Hammer Callout
+	// AquaticPet.DisplayName: Aquatic Pet
+	// VoidRitualCircle.DisplayName: Void Ritual Circle
+	// VPVoidLightBall.DisplayName: Void Light Ball
+	// VPRot.DisplayName: Void Pope Hand
+	// WuppoPet.DisplayName: Wuppo Pet
+	// GumProj.DisplayName: Gum Proj
+	// VoidshadeHeld.DisplayName: Voidshade Held
+	// VoidImpact.DisplayName: Void Impact
+	// BlackFire.DisplayName: Black Fire
+	// RbCircle.DisplayName: Rb Circle
+	// AquashardThrow.DisplayName: Aquashard Throw
+	// RadianceSpearThrow.DisplayName: Radiance Spear Throw
+	// HolyBeam.DisplayName: Holy Beam
+	// AbyssalPiercerThrow.DisplayName: Abyssal Piercer Throw
+	// AbyssalVortex.DisplayName: Abyssal Vortex
+	// AbyssTentacle.DisplayName: Abyss Tentacle
+	// AzureOfFirmamentThrow.DisplayName: Azure Of Firmament Throw
+	// WelkinFeather.DisplayName: Welkin Feather
+	// ArbitratorIIThrow.DisplayName: Arbitrator I I Throw
+	// PoopNormalProjectile.DisplayName: Poop Normal Projectile
+	// PoopBlackProjectile.DisplayName: Poop Black Projectile
+	// BlueFlies.DisplayName: Blue Flies
+	// PoopCornProjectile.DisplayName: Poop Corn Projectile
+	// PoopFlamingProjectile.DisplayName: Poop Flaming Projectile
+	// Flame.DisplayName: Flame
+	// PoopBombProjectile.DisplayName: Poop Bomb Projectile
+	// PoopGiantProjectile.DisplayName: Poop Giant Projectile
+	// PoopStinkyProjectile.DisplayName: Poop Stinky Projectile
+	// FartCloud.DisplayName: Fart Cloud
+	// PoopStoneProjectile.DisplayName: Poop Stone Projectile
+	// PoopWhiteProjectile.DisplayName: Poop White Projectile
+	// PoopAuricProjectile.DisplayName: Poop Auric Projectile
+	// PoopRedProjectile.DisplayName: Poop Red Projectile
+	// PoopGoldenProjectile.DisplayName: Poop Golden Projectile
+	// PoopRainbowProjectile.DisplayName: Poop Rainbow Projectile
+	// PoopWulfrumProjectile.DisplayName: Poop Wulfrum Projectile
+	// PoopVoidProjectile.DisplayName: Poop Void Projectile
+	// DSPet.DisplayName: D S Pet
+	// NetherRiftBlade.DisplayName: Nether Rift Blade
+	// BloodRing.DisplayName: Blood Ring
+	// HolyBeamRevelation.DisplayName: Holy Beam Revelation
+	// PsyFlyProj.DisplayName: Psy Fly Proj
+	// AnimaChain.DisplayName: Anima Chain
+	// LightWisperFlame.DisplayName: Light Wisper Flame
+	// OblivionArrow.DisplayName: Oblivion Arrow
+	// OblivionHoldout.DisplayName: Oblivion
+	// EyeOfIlmerisHoldout.DisplayName: Eye Of Ilmeris
+	// IlmerisWaterBullet.DisplayName: Ilmeris Water
+	// GravityGazeBullet.DisplayName: Gravity Gaze
+	// GravityGazeHoldout.DisplayName: Gravity Gaze
+	// DivineRadienceBullet.DisplayName: Divine Radience
+	// DivineRadienceHoldout.DisplayName: Divine Radience
+	// NightProjectionHoldout.DisplayName: Night Projection
+	// ProjectionStar.DisplayName: Projection Star
+	// ProjectionStarSplit.DisplayName: Projection Star Split
+	// ProjectionStarSplitAlt.DisplayName: Projection Star Split
+	// LunarLightball.DisplayName: Lunar Lightball
+	// OverloadLunarHoldout.DisplayName: Overload Lunar
+	// EyeOfOthersideHoldout.DisplayName: Eye Of Otherside
+	// EndlessAbyssHoldout.DisplayName: Endless Abyss
+	// EndlessAbyssLaser.DisplayName: Endless Abyss Laser
+	// Tail.DisplayName: Tail
+	// CellBullet.DisplayName: Cell Bullet
+	// CellSpike.DisplayName: Cell Spike
+	// VoidseekerProj.DisplayName: Voidseeker
+	// NihilityFire.DisplayName: Nihility Fire
+	// NihilityMinion.DisplayName: Nihility Minion
+	// NihilityEnergyBall.DisplayName: Nihility Energy Ball
+	// WispLanternProj.DisplayName: Wisp Lantern
+	// VitalfeatherProjectile.DisplayName: Vitalfeather Projectile
+	// DragonGoldenFire.DisplayName: Dragon Golden Fire
+	// WindOfUndertakerProjectile.DisplayName: Wind Of Undertaker Projectile
+	// HadopelagicEchoIIProj.DisplayName: Hadopelagic Echo II
+	// HadopelagicLaser.DisplayName: Hadopelagic Laser
+	// HadopelagicWail.DisplayName: Hadopelagic Wail
+	// StarlessNightProj.DisplayName: Starless Night
+	// WhipOfServiceProjectile.DisplayName: Whip Of Service Projectile
+	// XytheronProj.DisplayName: Xytheron
+	// WyrmDash.DisplayName: Wyrm Dash
+	// AbyssalCrack.DisplayName: Abyssal Crack
+	// TheEnd.DisplayName: The End
+	// TheBeginning.DisplayName: The Beginning
+	// SoulOfEcho.DisplayName: Soul Of Echo
+	// Echo.DisplayName: Echo
+	// SoulOfEclipse.DisplayName: Soul Of Eclipse
+	// YstralynProj.DisplayName: Ystralyn Proj
+	// PhantomWyrm.DisplayName: Phantom Wyrm
+	// NihilityVirus.DisplayName: Nihility Virus
+	// AnnihilateArrowProjectile.DisplayName: Annihilate Arrow Projectile
+	// AnnihilateArrowSplit.DisplayName: Annihilate Arrow Split
+	// NegentropyBulletProjectile.DisplayName: Negentropy Bullet Projectile
+	// ZyphrosCrystal.DisplayName: Zyphros Crystal
+	// ElectricLaser.DisplayName: Electric Laser
+	// Pioneer1.DisplayName: Pioneer1
+	// NyxolithrakenDragon.DisplayName: Nyxolith Dragon
+	// NxCrack.DisplayName: Abyssal Crack
+	// WaterExplosion.DisplayName: Water Explosion
+	// BrimstoneBarrageFriendly.DisplayName: Brimstone Barrage Friendly
+	// PlanteraChan.DisplayName: Plantera Chan
+	// AmethystFrisbeeProjectile.DisplayName: Amethyst Frisbee Projectile
+	// AmethystExplosion.DisplayName: Amethyst Explosion
+	// AncientScripturesHeld.DisplayName: Ancient Scriptures Held
+	// RuneBullet.DisplayName: Rune Bullet
+	// WelkinFeather2.DisplayName: Welkin Feather
+	// IceEdge2.DisplayName: Ice Edge
+	// BrimstoneVortex.DisplayName: Brimstone Vortex
+	// InfiniteBookHeld.DisplayName: Infinite Book Held
+	// DarkSoul.DisplayName: Dark Soul
+	// LightSoul.DisplayName: Light Soul
+	// AstralBullet.DisplayName: Astral Bullet
+	// AstralExplosion.DisplayName: Astral Explosion
+	// Detector.DisplayName: Detector
+	// TerraBoulder.DisplayName: Terra Boulder
+	// AbyssBookmarkCrack.DisplayName: Abyss Bookmark Crack
+	// VoidBurst.DisplayName: Void Burst
+	// SilvaSoul.DisplayName: Silva Soul
+	// GoozmaStarShot.DisplayName: Goozma Star
+	// NovaSlimerProj.DisplayName: Nova Slime
+	// AriesExplosion.DisplayName: Aries Explosion
+	// DecayPactMaelstrom.DisplayName: Decay Pact Maelstrom
+	// WarPactApollo.DisplayName: War Pact Apollo
+	// WarPactArtemis.DisplayName: War Pact Artemis
+	// ExoShot1.DisplayName: Exo Shot
+	// ArMinionLaser.DisplayName: Exo Laser
+	// UpdraftBullet.DisplayName: Updraft Bullet
+	// UpdraftTomeHeld.DisplayName: Updraft Tome
+	// RedemptionSpear.DisplayName: Redemption Spear
+	// RedemptionBibleHeld.DisplayName: Redemption Bible
+	// RedemptionArrow.DisplayName: Redemption Arrow
+	// RedemptionBow.DisplayName: Redemption Bow
+	// NightEpicHeld.DisplayName: Night Epic
+	// NightStar.DisplayName: Night Star
+	// AshTranscriptHeld.DisplayName: Ash Transcript
+	// ATLaser.DisplayName: Ash Laser
+	// VoidOdeHeld.DisplayName: Void Ode
+	// SighterPinFriendly.DisplayName: Sighter Pin Friendly
+	// ControlTerminalHeld.DisplayName: Control Terminal
+	// ExoWhirl.DisplayName: Exo Whirl
+	// WhirlExobeam.DisplayName: Whirl Exobeam
+	// TabooVolumeHeld.DisplayName: Taboo Volume Held
+	// BrimstoneHellblastFriendly.DisplayName: Brimstone Hellblast Friendly
+	// JewelRuby.DisplayName: Jewel Ruby
+	// RubyProj.DisplayName: Ruby Proj
+	// JewelEmerald.DisplayName: Jewel Emerald
+	// JewelSapphire.DisplayName: Jewel Sapphire
+}
+
+// LegendTooltip: - Legend -
+// KilledByVoidTouch: was killed by the void
+
+Buffs: {
+	VoidStorm: {
+		// DisplayName: Void Storm
+		// Description: The gaze from the deepest part of the void
+	}
+
+	VoidTouch: {
+		// Description: ""
+		// DisplayName: Void Touch
+	}
+
+	WyrmChanBuff: {
+		// DisplayName: Wyrm-Chan
+		// Description: Wyrm-Chan will follow you
+	}
+
+	YharimPower: {
+		// DisplayName: Yharim's Power
+		// Description: You feel like you can break the world in two... with your bare hands!
+	}
+
+	DoGBuff: {
+		// DisplayName: DoG
+		// Description: DoG
+	}
+
+	AstrumDeusBuff: {
+		// DisplayName: Divine Remnant
+		// Description: ""
+	}
+
+	WeakGravity: {
+		// DisplayName: Weak Gravity
+		// Description: ""
+	}
+
+	DivingShieldCooldown: {
+		// Description: ""
+		// DisplayName: Divine Shield Cooldown
+	}
+
+	TwistedTwinBuff: {
+		// Description: ""
+		// DisplayName: Twisted Twin
+	}
+
+	Rainstorm: {
+		// DisplayName: Rainstorm
+		// Description: ""
+	}
+
+	LilBrimstoneBuff: {
+		// Description: Evil Friend
+		// DisplayName: Lil Brimstone
+	}
+
+	AbyssBuff: {
+		// DisplayName: Abyss
+		// Description: ""
+	}
+
+	VoidPal: {
+		// Description: ""
+		// DisplayName: Void Pal
+	}
+
+	SoyMilkBuff: {
+		// Description: More attack speed, less damage
+		// DisplayName: Soy Milk
+	}
+
+	StealthState: {
+		// Description: ""
+		// DisplayName: Stealth State
+	}
+
+	MelonCatBuff: {
+		// Description: ""
+		// DisplayName: Melon Cat
+	}
+
+	DevourersAssassin: {
+		// DisplayName: Devourer's Assassin
+		// Description: One of the three little apostles
+	}
+
+	DevourerAndTheApostles: {
+		// Description: '''"We are four in one"'''
+		// DisplayName: Devourer And The Apostles
+	}
+
+	PlanetDestroyer: {
+		// DisplayName: Planet Destroyer
+		// Description: Planet Killer will fight for you
+	}
+
+	JailerWhipDebuff: {
+		// Description: ""
+		// DisplayName: Jailer Whip Teg
+	}
+
+	TeletorBuff: {
+		// DisplayName: Teletor
+		// Description: ""
+	}
+
+	EaterBuff: {
+		// DisplayName: Eater
+		// Description: ""
+	}
+
+	LostSoulBuff: {
+		// DisplayName: Lost Soul
+		// Description: ""
+	}
+
+	AquaticChan: {
+		// Description: Mods.CalamityEntropy.Buffs.AquaticChan.Description
+		// DisplayName: Aquatic Chan
+	}
+
+	WumBuff: {
+		// DisplayName: Wum
+		// Description: Wum will follow you
+	}
+
+	Deceive: {
+		// Description: Speed down
+		// DisplayName: Deceive
+	}
+
+	VoidCandleBuff: {
+		// DisplayName: Void Candle
+		// Description: ""
+	}
+
+	DustyWhistleBuff: {
+		// Description: ""
+		// DisplayName: Dusty Whistle
+	}
+
+	AquaticAmuletBuff: {
+		// Description: ""
+		// DisplayName: Aquatic Amulet
+	}
+
+	NihilityBacteriophageBuff: {
+		// DisplayName: Nihility Bacteriophage
+		// Description: Tiny Nihility Bacteriophage will fight for you
+	}
+
+	DragonWhipDebuff: {
+		// Description: ""
+		// DisplayName: Dragon Whip Tag
+	}
+
+	CruiserWhipDebuff: {
+		// DisplayName: Cruiser Whip Tag
+		// Description: ""
+	}
+
+	ServiceBuff: {
+		// Description: increase damage, attack speed and crit chance
+		// DisplayName: Service
+	}
+
+	EclipsedImprint: {
+		// DisplayName: Eclipsed Imprint
+		// Description: ""
+	}
+
+	StareOfTheAbyss: {
+		// DisplayName: Stare Of The Abyss
+		// Description: ""
+	}
+
+	WyrmWhipDebuff: {
+		// Description: Mods.CalamityEntropy.Buffs.WyrmWhipDebuff.Description
+		// DisplayName: Wyrm Whip Debuff
+	}
+
+	WyrmPhantom: {
+		// DisplayName: Wyrm Phantom
+		// Description: ""
+	}
+
+	VoidVirus: {
+		// DisplayName: Void Virus
+		// Description: Mods.CalamityEntropy.Buffs.VoidVirus.Description
+	}
+
+	NyxolithrakenBuff: {
+		// DisplayName: Nyxolith Dragon
+		/* Description:
+			'''
+			Nyxolith Dragon will fight for you
+			"It's from the abyss"
+			''' */
+	}
+
+	AbyssalWrath: {
+		// Description: Increace your damage
+		// DisplayName: Abyssal Wrath
+	}
+
+	PlanteraChanBuff: {
+		// DisplayName: Plantera Chan
+		// Description: ""
+	}
+
+	NoHeal: {
+		// DisplayName: No Heal
+		// Description: You cannot regen or use healing items
+	}
+}
+
+// Uh: ""
+
+NPCs: {
+	// LotteryMachine.DisplayName: Lottery Machine
+	// CruiserTail.DisplayName: Cruiser
+
+	CruiserHead: {
+		// DisplayName: Cruiser
+
+		BossChecklistIntegration: {
+			// EntryName: Cruiser
+			// SpawnInfo: Use [i:CalamityEntropy/VoidBottle] to summon
+			// DespawnMessage: Cruiser has been defeated
+		}
+	}
+
+	// CruiserBody.DisplayName: Cruiser
+	// AbyssalWraith.DisplayName: Abyssal Wraith
+	// VoidCultistAssassin.DisplayName: Void Cultist Assassin
+	// VoidPope.DisplayName: Void Pope
+	// VoidPopeHand.DisplayName: Void Pope Hand
+	// Delirium.DisplayName: Delirium
+
+	PrimordialWyrmNPC: {
+		TownNPCMood: {
+			// NoHome: Have a pleasant battle, you have won. Now please give me a place to live.
+			// Content: Thank you, I have a great time here.
+			// FarFromHome: Where is this?
+			// LoveSpace: This place is very spacious, I really like it.
+			// DislikeCrowded: This place is too lively.
+			// HateCrowded: There are many people here.
+			// LikeNPC_Princess: I like {NPCName}.
+			// Princess_LovesNPC: I like {NPCName}.
+		}
+
+		// DisplayName: Primordial Wyrm
+		// Census.SpawnCondition: Conditions unknown
+	}
+
+	NihilityActeriophage: {
+		// DisplayName: Nihility Acteriophage
+
+		BossChecklistIntegration: {
+			// EntryName: Nihility Twin
+			// SpawnInfo: Use [i:CalamityEntropy/NihilityHorn] to summon
+			// DespawnMessage: Nihility Twin has been defeated
+		}
+	}
+
+	// ChaoticCell.DisplayName: Chaotic Cell
+	// ChaoticCellSmall.DisplayName: Chaotic Cell Small
+	// DespairStoneFriendly.DisplayName: Despair Stone Friendly
+	// ScryllarFriendly.DisplayName: Scryllar Friendly
+	// AeroSlimeFriendly.DisplayName: Aero Slime Friendly
+	// SoulSlurperFriendly.DisplayName: Soul Slurper Friendly
+	// SkyfinFriendly.DisplayName: Skyfin Friendly
+	// IceClasperFriendly.DisplayName: Ice Clasper Friendly
+}
+
+// WyrmChatNoHome: Where are we going now?
+// WyrmChat1: Sometimes I get stuck when I enter the door, and then I break the door frame!
+// WyrmChat2: I have never slept on my side before.
+// WyrmChat3: You are very powerful, I will follow you.
+// WyrmChat4: The Terminus? I never knew what that thing was for, but please keep it safe.
+// WyrmChat5: You said there is a group of my followers? That sounds quite interesting.
+// WyrmChat6: The abyss is really oppressive, sometimes it's good to come out and get some fresh air.
+// WyrmChat7: Why should I follow you In order to prevent the thief who usurped the light from succeeding.
+// WyrmChat8: Life in the abyss is just too boring.
+// WyrmChat9: Do you think who is stronger between me and that Witch.
+// WyrmChat10: You asked me why I attacked you at that time? My mission is to protect that sacred object.
+// WyrmChat11: Chaos always makes me feel uncomfortable.
+/* loreCruiser:
+	'''
+	This worm like giant creature once lived in the void,
+	Once the channel linking reality and the void is opened,
+	It's not difficult to tear you apart
+	''' */
+// loreCruiserEffect: Permanently increase the max life by 20 and increase the max mana by 50
+/* loreNihTwin:
+	'''
+	Creatures living in the void parasitize on large floating creatures in some kind of void.
+	Although they resemble bacteriophages and cells, they are actually completely different from the organisms we are familiar with.
+	This creature can escape from its original dimension through the cracks in the void and come into our world.
+	''' */
+
+Keybinds: {
+	// RetrieveVoidAnnihilate.DisplayName: Retrieve Void Annihilate
+	// ThrowPoop.DisplayName: Throw Poop
+	// KeepPoop.DisplayName: Hold Poop
+}
+
+// CdMoonlight: Moonlight Shield
+// CdDS: Divine Shield Cooldown
+// CruiserBestiary: The worm like creature living in the void has been completely eroded by the void. When its scales shatter, you will see its true form.
+// AbyssalWraithBestiary: The false gods generated under distorted beliefs can burst out infinite void energy, but even such ultimate creatures are just the tip of the iceberg in the void.
+// NihilityTwinBestiary: A pair of creatures born in the void.
+// WorldGen.VoidOreSpawn: Void energy is emanating from the sky
+
+Tiles: {
+	// AuricBoulder.MapEntry: Auric Boulder
+	// AuricBoulderTile.MapEntry: Auric Boulder Tile
+	// VoidOre.MapEntry: Void Ore
+	// VoidOreTile.MapEntry: Void Ore Tile
+	// VoidBarTile.MapEntry: Void Bar Tile
+}
+
+// VoidChargeBar: Void Charging Bar
+
+Configs: {
+	Config: {
+		VoidChargeBarX: {
+			// Label: Void Charge Bar X
+			// Tooltip: ""
+		}
+
+		Headers: {
+			// Misc: Misc
+			// Other: Other
+		}
+
+		// DisplayName: Config
+
+		VoidChargeBarY: {
+			// Label: Void Charge Bar Y
+			// Tooltip: ""
+		}
+
+		ChainsawShakeScreen: {
+			// Label: Chainsaw Shake Screen
+			// Tooltip: ""
+		}
+
+		BindingOfIsaac_Rep_BossMusic: {
+			// Label: Binding Of Isaac Rep Boss Music
+			// Tooltip: ""
+		}
+
+		RepBossMusicReplaceCalamityMusic: {
+			// Tooltip: ""
+			// Label: Rep Boss Music Replace Calamity Music
+		}
+	}
+
+	ServerConfig: {
+		// DisplayName: Server Config
+		// Headers.Misc: Misc Header
+
+		CraftArmorWithPrefixChance: {
+			// Label: Craft Armor With Prefix Chance
+			// Tooltip: ""
+		}
+
+		EnableSethomeCommand: {
+			// Label: Enable Sethome Command
+			// Tooltip: ""
+		}
+	}
+}
+
+/* vfb:
+	'''
+	Armor Bonus:
+	+15% Damage
+	+10% Crit
+	+20 Armor Penetration
+	Hitting the target will increase void energy
+	Provides movement and flight speed bonuses based on the amount of void energy
+	Press the armor bonus key to activate Void energy Summon a Void Wraith to assist in battle and fly indefinitely for 10 seconds
+	Void Wrairh damage type depends on the weapon in hand
+	''' */
+/* helmvfc:
+	'''
+	-25% Mana Cost
+	Magic Projectiles hits enemies will reduce your Mana Sickness by 0.5s
+	''' */
+/* helmvfd:
+	'''
+	+30% Attack Speed
+	+10% Damage Reduce
+	Accumulates more void energy when hitting targets.
+	''' */
+// helmvfs: Projectile damage increases with time
+/* helmvfl:
+	'''
+	+15% movement speed
+	+150 Max Stealth
+	Stealth strikes will accumulate more void energy
+	''' */
+/* helmvfe:
+	'''
+	+8 Max Minions
+	+95% Summon Damage
+	Summon a Void Symbiont fight for you
+	''' */
+// Reforge: Reforge
+// ArmorPrefixHardName: Hard
+// ArmorPrefixHardDescription: +10% defense
+// ArmorPrefixLightName: Light
+/* ArmorPrefixLightDescription:
+	'''
+	+10% Move Speed
+	+10% Wing Speed
+	''' */
+// ArmorPrefixBrokenName: Broken
+// ArmorPrefixBrokenDescription: -20% Defense
+// ArmorPrefixGodForgedName: God Forged
+/* ArmorPrefixGodForgedDescription:
+	'''
+	+15%Defense
+	+2% Damage Reduce
+	+4% Damage
+	''' */
+// ArmorPrefixGuardedName: Guarded
+// ArmorPrefixGuardedDescription: +20% Defense
+// ArmorPrefixHeavyName: Heavy
+// ArmorPrefixHeavyDescription: -10% Move Speed
+// ArmorPrefixResilientName: Resilient
+// ArmorPrefixResilientDescription: Let you jump higher
+// ArmorPrefixRustName: Rusty
+// ArmorPrefixRustDescription: -10% Defense
+// ArmorPrefixShiningName: Shining
+// ArmorPrefixShiningDescription: Make you glow
+// ArmorPrefixThornyName: Thorny
+// ArmorPrefixThornyDescription: +100% Reverse injury
+// ArmorPrefixWaterWalkerName: Water Walker
+// ArmorPrefixWaterWalkerDescription: Enable you to walk on the water surface
+// ArmorPrefixMiracleName: Miracle
+/* ArmorPrefixMiracleDescription:
+	'''
+	+10% Defense
+	+1% Damage Reduce
+	+20% Light
+	+4% Damage
+	''' */
+// ArmorPrefixGreatName: Great
+/* ArmorPrefixGreatDescription:
+	'''
+	+12% Defense
+	+4% Damage
+	''' */
+// ArmorPrefixMassiveName: Massive
+/* ArmorPrefixMassiveDescription:
+	'''
+	+35% Defense
+	-15% Move Speed
+	''' */
+// ArmorPrefixDestinedGreatnessName: Destined Greatness
+/* ArmorPrefixDestinedGreatnessDescription:
+	'''
+	+4% Crit
+	+10% Defense
+	+1 Luck
+	''' */
+// ArmorPrefixRegenName: Regen
+// ArmorPrefixRegenDescription: +1/s Life Regen
+// ArmorPrefixVoidTouchedName: Void Touched
+// ArmorPrefixVoidTouchedDescription: +0.3 Void Touch
+// ArmorPrefixBiochemistryName: Biochemistry
+// ArmorPrefixBiochemistryDescription: +15% Debuff immunity probability
+// ArmorPrefixVoidName: Void
+/* ArmorPrefixVoidDescription:
+	'''
+	+0.1 Void Touch
+	+20% Reverse injury
+	+50% Shoot Speed
+	''' */
+// ArmorPrefixRecklessName: Reckless
+/* ArmorPrefixRecklessDescription:
+	'''
+	+7% Damage
+	-40% Defense
+	''' */
+// ArmorPrefixSacrificalName: Sacrifical
+/* ArmorPrefixSacrificalDescription:
+	'''
+	+16% Damage
+	-70% Defense
+	''' */
+// ArmorPrefixSilenceName: Silence
+// ArmorPrefixSilenceDescription: +1% Max Stealth
+// ArmorPrefixMagicalName: Magical
+/* ArmorPrefixMagicalDescription:
+	'''
+	+6 Max Mana
+	-10% Mana Cost
+	+10% Enhanced Mana
+	''' */
+// ArmorPrefixEvokerName: Evoker
+// ArmorPrefixEvokerDescription: +1 Max Minion
+// ArmorPrefixEndName: End
+/* ArmorPrefixEndDescription:
+	'''
+	+12% Defense
+	+10% Damage
+	+20% Knockback
+	+6% Crit
+	+100% Reverse injury
+	+0.1 Void Touch
+	''' */
+// ArmorPrefixWizardName: Wizard
+/* ArmorPrefixWizardDescription:
+	'''
+	+1 Max Minions
+	+2% Summon Damage
+	''' */
+// ArmorPrefixLastStandName: Last Stand
+/* ArmorPrefixLastStandDescription:
+	'''
+	+30% Defense
+	+5% Damage Reduce
+	''' */
+// PrefixEnchanted: Enchanted
+// PrefixEnchantedDesc: +2% Enhanced Mana
+// Prefixes.Enchanted.DisplayName: Enchanted
+// DamageClasses.NoneTypeDamageClass.DisplayName: Damage
+// hkLevel: Level
+// ZoneGraveyard: Zone Graveyard
+// DownedBoss2: After Defeat Eater of World / Brain of cthulhu
+// HaveOracleDeck: When Oracle Deck is in inventory
+// HaveTaintedDeck: When Tainted Deck is in inventory
+// DownloadBOI: Have played The Binding of Isaac: Repentance
+// IsaacLock: You can't equip this before you played The Binding of Isaac Repentance LOL
+// PWSpawnInfo: Enter the Abyss with Chaos State debuff
+// CdAS: Amima Sola Cooldown
+// XythCharge: Xytheron Charge
+// KilledByVoidVirus1: "Only Nihility remains in "
+// KilledByVoidVirus2: "'s blood"
+// KilledByAstral: " completely eroded by starlight"
+// CdFF: Friend Finder Cooldown
+// TooltipBookMark: Can insert in Entropy Books weapons
+// SlotInfo: Insert Bookmark
+/* EBookTooltip:
+	'''
+	Right click to open UI
+	Put Bookmarks in to enhance your attack
+	- Entropy Book -
+	''' */
+// SetHomeCommandError: Error: invalid parameters
+// HomeCommandError: Cannot find home
+// EntropyModeName: Entropy
+// EntropyModeDescShort: "[c/aa12e1:More challenging than death mode]"
+// EntropyModeDesc: "[c/aa12e1:More challenging than death mode, Less Health, Less Damage]"
+// EntropyModeActive: Entropy Mode is active. YOU WILL BE FORGOTTEN
+// EntropyModeDeactive: Entropy Mode is Deactive. Why not crave abandonment
+// MissedInVoid: missed in the void
