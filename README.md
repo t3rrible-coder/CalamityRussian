@@ -1,16 +1,14 @@
 # CalamityRussian
- Translation mod for Calamity and some of its addons
+ Перевод для Calamity и некоторых аддонов
 
-This mod is more focused on making a satisfactory translation, rather than accurate one.   
-Mostly, addons will be prioritized to be translated
-
-
-**Steam workshop link:** [click](https://github.com)   
-^ if it leads to github, then theres just no workshop page yet
+ 
+По большей части, в "приоритете" на перевод стоят аддоны   
+**Ссылка на Steam Workshop:** [клик](https://github.com)   
+^ Если эта ссылка ведёт на ГитХаб, то ссылки на воркшоп пока-что нету (или она сломана)
 
 
 >[!NOTE]
->This mod is simply made for fun and nothing more, which means there might not be frequent updates
-### Current translation progress:
-- `~2%` [Calamity](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072) by `Fabsol + more`
-- `100%` [Wrath of The Machines](https://github.com/LucilleKarma/WrathOfTheMachines) by `LucilleKarma`
+>Этот мод сделан чисто ради хорошего экспериенса, из-за чего обновления могут выходить редко
+### Текущий прогресс перевода:
+- `~2%` [Calamity](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072) от `Fabsol + more`
+- `100%` [Wrath of The Machines](https://github.com/LucilleKarma/WrathOfTheMachines) от `LucilleKarma`
