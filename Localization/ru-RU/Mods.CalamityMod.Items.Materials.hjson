@@ -1,0 +1,363 @@
+AerialiteBar: {
+	DisplayName: Аериалитовый слиток
+	Tooltip: ""
+}
+
+AncientBoneDust: {
+	DisplayName: Древняя пыль костей
+	Tooltip: ""
+}
+
+ArmoredShell: {
+	DisplayName: Бронированная пластина
+	Tooltip: ""
+}
+
+AscendantSpiritEssence: {
+	DisplayName: Возвышенная эссенция души
+	Tooltip: A catalyst of the highest caliber formed by fusing powerful souls
+}
+
+AshesofAnnihilation: {
+	DisplayName: Пепел аннигиляции
+	Tooltip: The smoldering essence of the Witch's wrath
+}
+
+AshesofCalamity: {
+	DisplayName: Пепел Каламити
+	Tooltip: ""
+}
+
+AstralBar: {
+	DisplayName: Астральный слиток
+	Tooltip: ""
+}
+
+AuricBar: {
+	DisplayName: Ауритовый слиток
+	Tooltip: Boundless power emanates from the metal
+}
+
+BeetleJuice: {
+	DisplayName: Сок жука
+	Tooltip: ""
+}
+
+BlightedGel: {
+	DisplayName: Освещённый гель
+	Tooltip: ""
+}
+
+BloodOrb: {
+	DisplayName: Кровавый шар
+	Tooltip: ""
+}
+
+BloodSample: {
+	DisplayName: Образец крови
+	Tooltip: ""
+}
+
+Bloodstone: {
+	DisplayName: Кровекамень
+	Tooltip: ""
+}
+
+BloodstoneCore: {
+	DisplayName: Кровекаменное ядро
+	Tooltip: ""
+}
+
+CoreofCalamity: {
+	DisplayName: Ядро Каламити
+	Tooltip: ""
+}
+
+CoreofEleum: {
+	DisplayName: Ядро Элия
+	Tooltip: ""
+}
+
+CoreofHavoc: {
+	DisplayName: Ядро Разрушения
+	Tooltip: ""
+}
+
+CoreofSunlight: {
+	DisplayName: Ядро Света
+	Tooltip: ""
+}
+
+CorrodedFossil: {
+	DisplayName: Распадающийся скелет
+	Tooltip: It's very sturdy
+}
+
+CosmiliteBar: {
+	DisplayName: Космический слиток
+	Tooltip: A chunk of durable and highly resilient cosmic steel
+}
+
+CryonicBar: {
+	DisplayName: Крионный слиток
+	Tooltip: ""
+}
+
+DarkPlasma: {
+	DisplayName: Тёмная Плазма
+	Tooltip: ""
+}
+
+DarksunFragment: {
+	DisplayName: Фрагмент Тёмного Солнца
+	Tooltip: An impacted crystal suffused with opposing celestial energies
+}
+
+DemonicBoneAsh: {
+	DisplayName: Демонический костный пепел
+	Tooltip: ""
+}
+
+DepthCells: {
+	DisplayName: Клетки глубин
+	Tooltip: The cells of abyssal creatures
+}
+
+DivineGeode: {
+	DisplayName: Божественный жеод
+	Tooltip: A chunk of crystallized holy energy
+}
+
+DubiousPlating: {
+	DisplayName: Стойкие пластины
+	Tooltip: ""
+}
+
+EffulgentFeather: {
+	DisplayName: Светящееся Перо
+	Tooltip: It vibrates with fluffy golden energy
+}
+
+EndothermicEnergy: {
+	DisplayName: Эндотермическая энергии
+	Tooltip: Its deathly chill sucks the life from its surroundings
+}
+
+EnergyCore: {
+	DisplayName: Ядро энергии
+	Tooltip: It pulses with energy
+}
+
+EssenceofEleum: {
+	DisplayName: Эссенция Элия
+	Tooltip: The essence of cold creatures
+}
+
+EssenceofHavoc: {
+	DisplayName: Эссенция Разрушения
+	Tooltip: The essence of desolate creatures
+}
+
+EssenceofSunlight: {
+	DisplayName: Эссенция Света
+	Tooltip: The essence of sky, light, and storm creatures
+}
+
+ExoPrism: {
+	DisplayName: Экзо-призма
+	Tooltip: Fractal energies shimmer across its surface
+}
+
+GalacticaSingularity: {
+	DisplayName: Сингулярность Галактики
+	Tooltip: A shard of the cosmos
+}
+
+GrandScale: {
+	DisplayName: Великая Чешуя
+	Tooltip: Large scale of an apex predator
+}
+
+InfectedArmorPlating: {
+	DisplayName: Заражённая бронепластина
+	Tooltip: ""
+}
+
+LifeAlloy: {
+	DisplayName: Сплав жизни
+	Tooltip: ""
+}
+
+LivingShard: {
+	DisplayName: Живой осколок
+	Tooltip: ""
+}
+
+Lumenyl: {
+	DisplayName: Люминель
+	Tooltip: Осколок лучевой энергии
+}
+
+MeldBlob: {
+	DisplayName: Сгусток космической массы
+	Tooltip: ""
+}
+
+MeldConstruct: {
+	DisplayName: Структура из космической массы
+	Tooltip: ""
+}
+
+MiracleMatter: {
+	DisplayName: Экзо-материя
+	Tooltip:
+		'''
+		Аморфная форма этого материала содержит великий потенциал
+		Требуется 1 материя для создания каждого Экзо-оружия
+		'''
+}
+
+MolluskHusk: {
+	DisplayName: Остатки моллюска
+	Tooltip: The remains of a mollusk
+}
+
+MurkyPaste: {
+	DisplayName: Мутная паста
+	Tooltip: ""
+}
+
+MysteriousCircuitry: {
+	DisplayName: Загадочные микросхемы
+	Tooltip: ""
+}
+
+Necroplasm: {
+	DisplayName: Некроплазма
+	Tooltip: It churns and seethes with ghastly malice
+}
+
+NightmareFuel: {
+	DisplayName: Топливо кошмара
+	Tooltip: May drain your sanity
+}
+
+PearlShard: {
+	DisplayName: Осколок жемчуга
+	Tooltip: ""
+}
+
+PerennialBar: {
+	DisplayName: Древний слиток
+	Tooltip: ""
+}
+
+PlagueCellCanister: {
+	DisplayName: Канистра чумы
+	Tooltip: ""
+}
+
+PlasmaDriveCore: {
+	DisplayName: Прототипное ядро плазма-привода
+	Tooltip: Despite all the time it spent in storage, its furnace still burns strong
+}
+
+PurifiedGel: {
+	DisplayName: Очищенный гель
+	Tooltip: ""
+}
+
+ReaperTooth: {
+	DisplayName: Зуб Жнеца
+	Tooltip: Sharp enough to cut diamonds
+}
+
+RottenMatter: {
+	DisplayName: Гнилая материя
+	Tooltip: ""
+}
+
+RuinousSoul: {
+	DisplayName: Разрушенная душа
+	Tooltip: A shard of the distant past
+}
+
+ScoriaBar: {
+	DisplayName: Шлаковый слиток
+	Tooltip: The smoke feels warm
+}
+
+SeaRemains: {
+	DisplayName: Морские остатки
+	Tooltip: ""
+}
+
+ShadowspecBar: {
+	DisplayName: Тенеауритовый слиток
+	Tooltip: A vile, black metal, so horrendous and powerful as to defy explanation
+}
+
+SolarVeil: {
+	DisplayName: Солнечная ткань
+	Tooltip: Sunlight cannot penetrate the fabric of this cloth
+}
+
+StarblightSoot: {
+	DisplayName: Сажа звёздного света
+	Tooltip: ""
+}
+
+StormlionMandible: {
+	DisplayName: Мандибула Громольва
+	Tooltip: ""
+}
+
+SulphuricScale: {
+	DisplayName: Серная Чешуя
+	Tooltip: ""
+}
+
+SuspiciousScrap: {
+	DisplayName: Подозрительный мусор
+	Tooltip: Looks like it may be part of a greater whole...
+}
+
+TitanHeart: {
+	DisplayName: Сердце Титана
+	Tooltip: Can be offered up at the Astral Beacon
+}
+
+TrapperBulb: {
+	DisplayName: Цветок-ловушка
+	Tooltip: ""
+}
+
+TwistingNether: {
+	DisplayName: Фрагментированая пустота
+	Tooltip: ""
+}
+
+UelibloomBar: {
+	DisplayName: Уэлиблюмовый слиток
+	Tooltip: ""
+}
+
+UnholyCore: {
+	DisplayName: Адское Ядро
+	Tooltip: ""
+}
+
+UnholyEssence: {
+	DisplayName: Адская Эссенция
+	Tooltip: The essence of profaned creatures
+}
+
+WulfrumMetalScrap: {
+	DisplayName: Вольфрамовый мусор
+	Tooltip: ""
+}
+
+YharonSoulFragment: {
+	DisplayName: Фрагмент души Ярона
+	Tooltip: A shard of a draconic Auric Soul
+}

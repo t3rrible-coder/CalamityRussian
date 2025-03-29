@@ -1,0 +1,56 @@
+AcidRain: Кислотный дождь
+AcidRainStart: Кислотные дожди начинаются над уничтоженными морями!
+AcidRainEnd: Серные небеса начинают очищаться...
+BossRush: Испытание Лучших
+// Boss Rush Xeroc Dialogue
+// Intro text
+BossRushStartText_1: ...Сколько лет прошло? Сотни? Может быть, тысячи?
+BossRushStartText_2: Я утопил этот артефакт в глубочайшем месте что-бы предотвратить его использование вновь.
+BossRushStartText_3: Немногие знают о его существовании, а те кто знают?
+BossRushStartText_4: Им известно что безграничная сила, которую он ранее давал, теперь не может быть получена.
+BossRushStartText_5: Для меня это сюрприз, увидеть того, у кого хватило стойкости что-бы получить его, особенно учитывая его местонахождение.
+BossRushStartText_6: И тем более, смертная душа! Как интересно...
+BossRushStartText_7: Что именно сподвигло тебя пройти столько всего ради, теперь, разпадающейся каменной таблички?
+BossRushStartText_8: ...Хотя, это может быть редкая возможность. Немалых сил надо на то, чтобы забрать эту реликвию, и Я посматривал на твои похождения.
+BossRushStartText_9: Ты, кто забрал этот артефакт, который законичл эру, чтобы закончить другую...
+// Extra text based on defeated bosses
+// You should see all of these if you are at the right progression point for Boss Rush
+BossRushStartText_DoG: Ты, кто убил безымянного змея...
+BossRushStartText_Yharon: Ты, кто даже победил моего старого друга, Феникса...
+BossRushStartText_DraedonSCal: Ты победил тех смертных, чья сила заставила меня сомневаться в моей...
+// Further intro text
+BossRushStartText_10: Я желаю проверить твою силу используя части моего Древнего Света чтобы воссоздать формы твоих прошлых врагов.
+// BossRushStartText_11: It will be no easy task, yet should you prove yourself strong enough, I will have a proposal for you.
+// BossRushStartText_12: Do you believe yourself capable of conquering such a challenge?
+// Shortened intro text for repeat attempts
+// BossRushStartText_Repeat: Do you wish to face my challenge?
+// Player responses. Death is if you somehow die while Xeroc is waiting
+// BossRushStartText_Decline: I see. Perhaps my faith in you was mistaken. Farewell.
+// BossRushStartText_Accept: Very well. Let the trial commence!
+// BossRushStartText_Death: ...Did I truly return for this, of all things?
+// Sequential text at the end of Boss Rush Tier 1
+// BossRushTierOneEndText_1: A passable display so far, but not nearly enough to meet my expectations.
+// BossRushTierOneEndText_2: Prepare both your body and soul for what has yet to come.
+// Sequential text at the end of Boss Rush Tier 2
+// BossRushTierTwoEndText_1: I wasn't mistaken. You are indeed an admirable warrior.
+// BossRushTierTwoEndText_2: Still, you haven't shown me enough. Shall we escalate things further?
+// Sequential text at the end of Boss Rush Tier 3
+// BossRushTierThreeEndText_1: Your determination and will to grow stronger... It reminds me of myself, when I was mortal.
+// BossRushTierThreeEndText_2: But the hardest challenges still await. Do not let your guard down, even for a moment.
+// Sequential text at the end of Boss Rush Tier 4
+// BossRushTierFourEndText_1: The trial will soon reach its climax.
+// BossRushTierFourEndText_2: Now is the time to display your conviction, and the true extent of your strength and will.
+// BossRushTierFourEndText_3: Prove to me that you are capable of surpassing even yourself.
+// Victory text
+// BossRushEndText_1: A truly excellent display. I see that I was correct! You indeed may be this world's mightiest warrior. However...
+// BossRushEndText_2: It seems as though even that power... it is not enough. I'm afraid I will not be sharing my proposal with you.
+// BossRushEndText_3: Though, as a consolation prize, I wish for you to take this ancient stone I carved from the Aerie.
+// BossRushEndText_4: I have long held it as a... keepsake, of sorts.
+// BossRushEndText_5: Though you may have failed to meet my requirements, it is unlikely that this will be the only time our paths cross!
+// BossRushEndText_6: Continue to seek greater strength, and when we meet again, perhaps you will have grown enough in power to be worthy.
+// BossRushEndText_7: In the meantime, I have my own matters that I must attend to.
+// BossRushEndText_8: Farewell, for now.
+// Shortened victory text for repeat attempts
+// BossRushEndText_Repeat: You have proven yourself to be a formidable warrior, yet it is not enough. Seek new heights of power, so that you may one day be worthy.
+// Dying during Xeroc's victory monologue gives you this
+// BossRushEndText_Death: ...I suppose that I was correct in assuming that this world cannot help itself, much less me.
