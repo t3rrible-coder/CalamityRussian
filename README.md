@@ -9,7 +9,7 @@ Mostly, addons will be prioritized to be translated
 >This mod is NOT official localization, it's simply made for fun and nothing more
 
 
-**Steam workshop link:** [click]()   
+**Steam workshop link:** [click](https://github.com)   
 ^ if it leads to github, then theres just no workshop page yet
 
 
