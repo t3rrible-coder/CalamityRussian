@@ -3,4 +3,5 @@ author = terra
 version = 0.5
 translationMod = true
 modReferences = CalamityMod
+weakReference = CalamityEntropy,WoTM
 sortAfter = CalamityMod,CalamityEntropy,WoTM
