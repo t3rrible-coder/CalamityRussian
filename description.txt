@@ -1,6 +1,2 @@
 Перевод для Calamity и некоторых аддонов
-
-Прогресс перевода:
-Calamity - 1%
-Calamity : Entropy - 2%
-Calamity : Wrath of the Machines - 100%
+Данный перевод неофициален, и может содержать ошибки
