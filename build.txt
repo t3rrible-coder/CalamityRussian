@@ -3,5 +3,6 @@ author = terra
 version = 0.5
 translationMod = true
 modReferences = CalamityMod
+ModSide = Client
 weakReferences = CalamityEntropy,WoTM,CalamityFables
 sortAfter = CalamityMod,CalamityEntropy,WoTM,CalamityFables
